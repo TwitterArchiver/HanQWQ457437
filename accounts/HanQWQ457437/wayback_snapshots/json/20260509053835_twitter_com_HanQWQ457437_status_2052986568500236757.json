@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052961916323279076",
+    "created_at": "2026-05-09T05:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052986568500236757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052986568500236757",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052961916323279076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ 🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052961916323279076",
+        "created_at": "2026-05-09T05:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052986568500236757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052986568500236757",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052961916323279076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ 🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2052961916323279076",
+        "created_at": "2026-05-09T04:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052961916323279076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052961916323279076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怒了啊，吃药看眼说明书很难吗，看眼自己将要拿来od的药的药物过量栏目很难吗，干这么危险的事连说明书都不愿意看那吃死了不就是活该了吗？（指目的不是为了死或者自伤的）但凡查过也不会一直乱吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1501,
+          "like_count": 2194,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 575
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 682,
+          "like_count": 15466,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 3064
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

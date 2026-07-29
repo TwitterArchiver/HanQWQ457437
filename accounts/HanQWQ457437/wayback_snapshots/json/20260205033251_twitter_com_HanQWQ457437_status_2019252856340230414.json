@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2019100300926431326",
+    "created_at": "2026-02-05T03:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019252856340230414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019252856340230414",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019100300926431326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 我去👁️👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2019100300926431326",
+        "created_at": "2026-02-05T03:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019252856340230414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019252856340230414",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019100300926431326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 我去👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2019100300926431326",
+        "created_at": "2026-02-04T17:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019100300926431326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019100300926431326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊原来卖惨的是不能说的不能评价的只要说了就是不尊重，尊重卖惨的是什么规则怪谈吗，对不起我才知道啊对不起对不起💔那以后我也要卖惨了\n你们必须尊重我安慰我，不能说我卖惨不然就是你的错呜呜，我生活这么差你们没有一点错吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "New Zealand",
+        "name": "👁️👁️👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018926758679171073/EFUZ-tHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 78,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "来自叶子大王的溺爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019103377612063033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 85,
+          "like_count": 3138,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

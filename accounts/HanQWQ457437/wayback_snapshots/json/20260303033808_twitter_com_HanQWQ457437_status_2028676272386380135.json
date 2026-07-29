@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028676269995606016"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2028631371917250734",
+    "created_at": "2026-03-03T03:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028676272386380135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/18hZPj1MMO",
+          "end": 50,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2028676272386380135/photo/1",
+          "media_key": "3_2028676269995606016",
+          "start": 27,
+          "url": "https://t.co/18hZPj1MMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028676272386380135",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028631371917250734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 🤔🤔aimbox？ https://t.co/18hZPj1MMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2028676269995606016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdOUbVaQAA8nRW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028631341408100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcldPTaoAAwaPZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2028631341353570304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcldPGakAAw1JO.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028631341240135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcldOrXsAATxOB.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028676269995606016"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2028631371917250734",
+        "created_at": "2026-03-03T03:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028676272386380135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/18hZPj1MMO",
+              "end": 50,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2028676272386380135/photo/1",
+              "media_key": "3_2028676269995606016",
+              "start": 27,
+              "url": "https://t.co/18hZPj1MMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028676272386380135",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028631371917250734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 🤔🤔aimbox？ https://t.co/18hZPj1MMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028631341408100352",
+            "3_2028631341353570304",
+            "3_2028631341240135680"
+          ]
+        },
+        "author_id": "1991364416823259139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028631371917250734",
+        "created_at": "2026-03-03T00:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028631371917250734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOQQbx7kiJ",
+              "end": 121,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2028631371917250734/photo/1",
+              "media_key": "3_2028631341408100352",
+              "start": 98,
+              "url": "https://t.co/FOQQbx7kiJ"
+            },
+            {
+              "display_url": "pic.x.com/FOQQbx7kiJ",
+              "end": 121,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2028631371917250734/photo/1",
+              "media_key": "3_2028631341353570304",
+              "start": 98,
+              "url": "https://t.co/FOQQbx7kiJ"
+            },
+            {
+              "display_url": "pic.x.com/FOQQbx7kiJ",
+              "end": 121,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2028631371917250734/photo/1",
+              "media_key": "3_2028631341240135680",
+              "start": 98,
+              "url": "https://t.co/FOQQbx7kiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028631371917250734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 312,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢白二nono和工作室的各位，我很喜欢这个地方和这里的各位，也许这段时间的结果很糟糕，但是确确实实让我每一天都很开心，游戏本就应该这样，把所有人踩在脚下轻轻松松的娱乐，要是暑假还能回来就好了） https://t.co/FOQQbx7kiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "🫀🧠🚬🚬🚬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025497143189106688/kMoRZ1Md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 162,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 145
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "不需要任何人在意的记事本",
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2008614281743597642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 557,
+          "like_count": 5510,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 1894
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

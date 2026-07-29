@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052983032295100698",
+    "created_at": "2026-05-09T05:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052986352279728229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052986352279728229",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052983032295100698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052983020634914816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2pLhraQAAfcj1.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052983032295100698",
+        "created_at": "2026-05-09T05:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052986352279728229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052986352279728229",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052983032295100698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052983020634914816"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "conversation_id": "2052983032295100698",
+        "created_at": "2026-05-09T05:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052983032295100698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6XI2yXPSg",
+              "end": 23,
+              "expanded_url": "https://x.com/4rulq/status/2052983032295100698/photo/1",
+              "media_key": "3_2052983020634914816",
+              "start": 0,
+              "url": "https://t.co/e6XI2yXPSg"
+            },
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/4rulq/status/2052981087085945137",
+              "start": 24,
+              "url": "https://t.co/MiHpvlpe6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052983032295100698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052981087085945137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/e6XI2yXPSg https://t.co/MiHpvlpe6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1499,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 573
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮/性別焦慮各方面渴望被愛\n重度の不安/性別不安の各方面（ではない）\nHRT：2026/5/6\n請先看這個內容喵～注意⚠️：若是大陸人請自覺用找我要國內聯絡資訊喵～感謝大家的配合喵～最愛大家喵～\n註明：1:自願不是強求喵～\n2:有🚪費的請遠離喵～（後續酌情補充喵～",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 540,
+          "like_count": 1962,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1947
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

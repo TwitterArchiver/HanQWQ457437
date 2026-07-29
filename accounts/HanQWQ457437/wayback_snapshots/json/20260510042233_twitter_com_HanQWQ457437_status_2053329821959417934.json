@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053137400491389067",
+    "created_at": "2026-05-10T04:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053329821959417934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041394869386797056",
+          "start": 0,
+          "username": "Yumiuwd7jl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053329821959417934",
+    "in_reply_to_user_id": "2041394869386797056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053137400491389067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumiuwd7jl 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053137400491389067",
+        "created_at": "2026-05-10T04:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053329821959417934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041394869386797056",
+              "start": 0,
+              "username": "Yumiuwd7jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053329821959417934",
+        "in_reply_to_user_id": "2041394869386797056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053137400491389067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumiuwd7jl 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041394869386797056",
+        "conversation_id": "2053137400491389067",
+        "created_at": "2026-05-09T15:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053137400491389067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053137400491389067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睫毛越搓越少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1623,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 651
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T05:58:43.000Z",
+        "description": "只回有礼貌的/高中生/喜欢的会fo",
+        "id": "2041394869386797056",
+        "name": "那你别说爱我啊",
+        "pinned_tweet_id": "2051321635765207226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041850782954455041/5F9P2AS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 35,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 150
+        },
+        "username": "Yumiuwd7jl",
+        "verified": false
+      }
+    ]
+  }
+}

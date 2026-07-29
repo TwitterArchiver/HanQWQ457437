@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053462180847325529",
+    "created_at": "2026-05-10T21:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T22:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053580929508012509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053580929508012509",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053462180847325529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 看看手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2064,
+        "media_key": "3_2053461778055761920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9cm4DbEAAhRyE.jpg",
+        "width": 2752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053462180847325529",
+        "created_at": "2026-05-10T21:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053580929508012509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053580929508012509",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053462180847325529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 看看手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053461778055761920"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053462180847325529",
+        "created_at": "2026-05-10T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053462180847325529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZ2xRH7rne",
+              "end": 40,
+              "expanded_url": "https://x.com/4rulq/status/2053462180847325529/photo/1",
+              "media_key": "3_2053461778055761920",
+              "start": 17,
+              "url": "https://t.co/iZ2xRH7rne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053462180847325529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT 紀錄喵🍥～（第四天晚上） https://t.co/iZ2xRH7rne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1624,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 660
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮（正在好轉）\n重度の不安（改善しています）\nHRT：2026/5/6",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 558,
+          "like_count": 2063,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 2054
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

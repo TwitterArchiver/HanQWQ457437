@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2056496833493635245",
+    "created_at": "2026-06-10T20:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064806792669094146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023820500259270663",
+          "start": 0,
+          "username": "restamin2yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064806792669094146",
+    "in_reply_to_user_id": "2023820500259270663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056496833493635245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@restamin2yan 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2056496827676192768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIok-A9bcAAeGgo.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2056496833493635245",
+        "created_at": "2026-06-10T20:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064806792669094146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023820500259270663",
+              "start": 0,
+              "username": "restamin2yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064806792669094146",
+        "in_reply_to_user_id": "2023820500259270663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056496833493635245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@restamin2yan 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056496827676192768"
+          ]
+        },
+        "author_id": "2023820500259270663",
+        "conversation_id": "2056496833493635245",
+        "created_at": "2026-05-18T22:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056496833493635245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Meh0CyR1Qp",
+              "end": 54,
+              "expanded_url": "https://x.com/restamin2yan/status/2056496833493635245/photo/1",
+              "media_key": "3_2056496827676192768",
+              "start": 31,
+              "url": "https://t.co/Meh0CyR1Qp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056496833493635245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6954,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大久保公園トー横界隈行きたいけど金ない(笑)\n #自撮り界隈 https://t.co/Meh0CyR1Qp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1039,
+          "like_count": 2871,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 815
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T18:04:26.000Z",
+        "description": "08おばさんDD殺すゆぱちゃむです♡@loyxf_777♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "loyxf_777"
+              }
+            ]
+          }
+        },
+        "id": "2023820500259270663",
+        "location": "歌舞伎超TV",
+        "name": "DD㌠特級呪物",
+        "pinned_tweet_id": "2056496833493635245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023821006239096832/Ah9e7P7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 56,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 420
+        },
+        "username": "restamin2yan",
+        "verified": false
+      }
+    ]
+  }
+}

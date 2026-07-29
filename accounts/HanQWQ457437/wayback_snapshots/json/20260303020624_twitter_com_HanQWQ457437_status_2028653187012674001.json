@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2028653187012674001",
+    "created_at": "2026-03-03T02:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028653187012674001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916543476231208960",
+          "start": 3,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028653187012674001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028470838014652782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike001: 地雷女能有几个真惨的，人均中产家庭过的比大多数人都好，一个个发布机型来自iPhone16ProMax17ProMax还天天歌手欧弟哭穷卖惨无病呻吟骗骗自己得了吧别把大家骗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2028653187012674001",
+        "created_at": "2026-03-03T02:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028653187012674001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916543476231208960",
+              "start": 3,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028653187012674001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028470838014652782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike001: 地雷女能有几个真惨的，人均中产家庭过的比大多数人都好，一个个发布机型来自iPhone16ProMax17ProMax还天天歌手欧弟哭穷卖惨无病呻吟骗骗自己得了吧别把大家骗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2028470838014652782",
+        "created_at": "2026-03-02T14:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028470838014652782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028470838014652782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 29177,
+          "like_count": 531,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女能有几个真惨的，人均中产家庭过的比大多数人都好，一个个发布机型来自iPhone16ProMax17ProMax还天天歌手欧弟哭穷卖惨无病呻吟骗骗自己得了吧别把大家骗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "🫀🧠🚬🚬🚬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025497143189106688/kMoRZ1Md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 156,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 143
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 125,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 119
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

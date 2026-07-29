@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038356525518114816"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2038356547714302340",
+    "created_at": "2026-03-29T20:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038356547714302340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gkGFy8mcT0",
+          "end": 27,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2038356547714302340/video/1",
+          "media_key": "7_2038356525518114816",
+          "start": 4,
+          "url": "https://t.co/gkGFy8mcT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038356547714302340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "驾驶室 https://t.co/gkGFy8mcT0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5601,
+        "height": 720,
+        "media_key": "7_2038356525518114816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038356525518114816/pu/img/GhV54cs-jS3oPKPt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356525518114816/pu/vid/avc1/480x270/ctk8-qs7k06AzpvL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356525518114816/pu/vid/avc1/640x360/HTlTB0zus7JnfY9Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356525518114816/pu/vid/avc1/1280x720/cSN87YNRxa1xxQGy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038356525518114816/pu/pl/Ax-se533yBmRqd-L.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038356525518114816"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038356547714302340",
+        "created_at": "2026-03-29T20:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038356547714302340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkGFy8mcT0",
+              "end": 27,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2038356547714302340/video/1",
+              "media_key": "7_2038356525518114816",
+              "start": 4,
+              "url": "https://t.co/gkGFy8mcT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038356547714302340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驾驶室 https://t.co/gkGFy8mcT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 966,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 405
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

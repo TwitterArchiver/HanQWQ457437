@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2046209850204635160",
+    "created_at": "2026-04-20T23:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046372426976567370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036455347565846528",
+          "start": 0,
+          "username": "lingsu001"
+        },
+        {
+          "end": 27,
+          "id": "2045022236201918465",
+          "start": 11,
+          "username": "cVPrL20wIa42392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046372426976567370",
+    "in_reply_to_user_id": "2036455347565846528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046212014222295171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingsu001 @cVPrL20wIa42392 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2046209850204635160",
+        "created_at": "2026-04-20T23:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046372426976567370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036455347565846528",
+              "start": 0,
+              "username": "lingsu001"
+            },
+            {
+              "end": 27,
+              "id": "2045022236201918465",
+              "start": 11,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046372426976567370",
+        "in_reply_to_user_id": "2036455347565846528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046212014222295171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingsu001 @cVPrL20wIa42392 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036455347565846528",
+        "conversation_id": "2046209850204635160",
+        "created_at": "2026-04-20T12:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046212014222295171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046212014222295171",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046209850204635160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 抱抱😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1424,
+          "like_count": 2135,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 534
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:49:37.000Z",
+        "description": "",
+        "id": "2036455347565846528",
+        "location": "精卫",
+        "name": "lingsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042107628793597952/OFb9HRWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 99,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 165
+        },
+        "username": "lingsu001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 400,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

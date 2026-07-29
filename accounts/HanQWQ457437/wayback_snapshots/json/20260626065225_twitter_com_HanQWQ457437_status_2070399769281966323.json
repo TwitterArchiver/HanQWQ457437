@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2063502771626934333",
+    "created_at": "2026-06-26T06:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070399769281966323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827819395894374400",
+          "start": 0,
+          "username": "buling_kira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070399769281966323",
+    "in_reply_to_user_id": "1827819395894374400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063502771626934333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buling_kira 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2063502759249485825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMI054aoAEfUqO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2063502771626934333",
+        "created_at": "2026-06-26T06:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070399769281966323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827819395894374400",
+              "start": 0,
+              "username": "buling_kira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070399769281966323",
+        "in_reply_to_user_id": "1827819395894374400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063502771626934333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buling_kira 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063502759249485825"
+          ]
+        },
+        "author_id": "1827819395894374400",
+        "conversation_id": "2063502771626934333",
+        "created_at": "2026-06-07T06:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063502771626934333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bltsl22zuy",
+              "end": 31,
+              "expanded_url": "https://x.com/buling_kira/status/2063502771626934333/photo/1",
+              "media_key": "3_2063502759249485825",
+              "start": 8,
+              "url": "https://t.co/bltsl22zuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063502771626934333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6016,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的超喜欢这张 https://t.co/bltsl22zuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1188,
+          "like_count": 3199,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-25T21:24:46.000Z",
+        "description": "言语都是过剩多余 。",
+        "id": "1827819395894374400",
+        "location": "喜欢你就距离100m",
+        "name": "猫三斤",
+        "pinned_tweet_id": "2063502771626934333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037724919124172800/_zIBHxsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197,
+          "following_count": 26,
+          "like_count": 3634,
+          "listed_count": 12,
+          "media_count": 54,
+          "tweet_count": 3209
+        },
+        "url": "",
+        "username": "buling_kira",
+        "verified": false
+      }
+    ]
+  }
+}

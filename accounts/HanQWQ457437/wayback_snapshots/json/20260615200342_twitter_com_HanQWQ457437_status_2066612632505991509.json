@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2066517204200505555",
+    "created_at": "2026-06-15T20:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066612632505991509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896510089609297920",
+          "start": 0,
+          "username": "Cheeseduck111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066612632505991509",
+    "in_reply_to_user_id": "1896510089609297920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066517204200505555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeseduck111 给哥哥抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2066517122923245568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-X9oaMAA7pkZ.jpg",
+        "width": 1124
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066517122986180608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-X93agAAA5tQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066517122923319296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-X9obUAAUiFD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066517122931716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2-X9qbcAASMox.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2066517204200505555",
+        "created_at": "2026-06-15T20:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066612632505991509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896510089609297920",
+              "start": 0,
+              "username": "Cheeseduck111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066612632505991509",
+        "in_reply_to_user_id": "1896510089609297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066517204200505555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeseduck111 给哥哥抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066517122923245568",
+            "3_2066517122986180608",
+            "3_2066517122923319296",
+            "3_2066517122931716096"
+          ]
+        },
+        "author_id": "1896510089609297920",
+        "conversation_id": "2066517204200505555",
+        "created_at": "2026-06-15T13:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066517204200505555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyhOjgldq0",
+              "end": 43,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2066517204200505555/photo/1",
+              "media_key": "3_2066517122923245568",
+              "start": 20,
+              "url": "https://t.co/cyhOjgldq0"
+            },
+            {
+              "display_url": "pic.x.com/cyhOjgldq0",
+              "end": 43,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2066517204200505555/photo/1",
+              "media_key": "3_2066517122986180608",
+              "start": 20,
+              "url": "https://t.co/cyhOjgldq0"
+            },
+            {
+              "display_url": "pic.x.com/cyhOjgldq0",
+              "end": 43,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2066517204200505555/photo/1",
+              "media_key": "3_2066517122923319296",
+              "start": 20,
+              "url": "https://t.co/cyhOjgldq0"
+            },
+            {
+              "display_url": "pic.x.com/cyhOjgldq0",
+              "end": 43,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2066517204200505555/photo/1",
+              "media_key": "3_2066517122931716096",
+              "start": 20,
+              "url": "https://t.co/cyhOjgldq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066517204200505555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 778,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新衣服新照片\n（后面房间太乱不要在意😭 https://t.co/cyhOjgldq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1037,
+          "like_count": 2921,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 870
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 119,
+          "like_count": 6600,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1164
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

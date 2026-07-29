@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059462156928573449"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2059281995398807831",
+    "created_at": "2026-05-27T02:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059462162565726210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642466383832449024",
+          "start": 0,
+          "username": "Rei01_Shimizu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBlqQe4htR",
+          "end": 41,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2059462162565726210/photo/1",
+          "media_key": "3_2059462156928573449",
+          "start": 18,
+          "url": "https://t.co/kBlqQe4htR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059462162565726210",
+    "in_reply_to_user_id": "1642466383832449024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059281995398807831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei01_Shimizu 好萌 https://t.co/kBlqQe4htR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2059462156928573449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSt65QWYAkWbwt.jpg",
+        "width": 850
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059281971231313920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQKCtOb0AAim4M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059462156928573449"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2059281995398807831",
+        "created_at": "2026-05-27T02:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059462162565726210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642466383832449024",
+              "start": 0,
+              "username": "Rei01_Shimizu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBlqQe4htR",
+              "end": 41,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2059462162565726210/photo/1",
+              "media_key": "3_2059462156928573449",
+              "start": 18,
+              "url": "https://t.co/kBlqQe4htR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059462162565726210",
+        "in_reply_to_user_id": "1642466383832449024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281995398807831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei01_Shimizu 好萌 https://t.co/kBlqQe4htR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059281971231313920"
+          ]
+        },
+        "author_id": "1642466383832449024",
+        "conversation_id": "2059281995398807831",
+        "created_at": "2026-05-26T14:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059281995398807831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lquPjLdDYV",
+              "end": 91,
+              "expanded_url": "https://x.com/Rei01_Shimizu/status/2059281995398807831/photo/1",
+              "media_key": "3_2059281971231313920",
+              "start": 68,
+              "url": "https://t.co/lquPjLdDYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281995398807831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了还没把头发接长的时候打超糊照片…\n但其实接长头发后除了洗完澡透发还没干的时候脑袋会变重以及吹头发时间变久了之外好像也没啥区别（雾 https://t.co/lquPjLdDYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1043,
+          "like_count": 2696,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 770
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T09:58:07.000Z",
+        "description": "爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我",
+        "id": "1642466383832449024",
+        "location": "地球",
+        "name": "レイイイイイイイイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054260051003785216/BojDu-fF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 9,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 81
+        },
+        "username": "Rei01_Shimizu",
+        "verified": false
+      }
+    ]
+  }
+}

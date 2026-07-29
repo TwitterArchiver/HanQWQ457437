@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2036721859350388914",
+    "created_at": "2026-03-25T08:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T09:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036721859350388914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wu_si42846/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/wu_si42846/status/2036176996536033446",
+          "start": 4,
+          "url": "https://t.co/xR6S8qLeVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036721859350388914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036176996536033446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一起吸 https://t.co/xR6S8qLeVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "16_2036176986956242944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEH0LndaIAA0mfV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEH0LndaIAA0mfV.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2036721859350388914",
+        "created_at": "2026-03-25T08:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036721859350388914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wu_si42846/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/wu_si42846/status/2036176996536033446",
+              "start": 4,
+              "url": "https://t.co/xR6S8qLeVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036721859350388914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036176996536033446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一起吸 https://t.co/xR6S8qLeVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2036176986956242944"
+          ]
+        },
+        "author_id": "1956544219751063552",
+        "conversation_id": "2036176996536033446",
+        "created_at": "2026-03-23T20:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036176996536033446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1isjaSPjIP",
+              "end": 79,
+              "expanded_url": "https://x.com/wu_si42846/status/2036176996536033446/photo/1",
+              "media_key": "16_2036176986956242944",
+              "start": 56,
+              "url": "https://t.co/1isjaSPjIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036176996536033446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1219,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈妈妈我最近在推特上认识了一群大毒笑，我要和他们一起系度，一起割手，一起做爱，呃呃啊啊啊啊啊啊我不要上学哇！ https://t.co/1isjaSPjIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "wisteria(互fo)🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032019125917401089/hCOxWkfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 216,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 181
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "愈美片你个臭傻逼，我操死你🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀里账号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 986,
+          "like_count": 38236,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 14951
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

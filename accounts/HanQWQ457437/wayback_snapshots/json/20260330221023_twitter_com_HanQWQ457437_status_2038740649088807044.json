@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2038727204784210084",
+    "created_at": "2026-03-30T22:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T23:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038740649088807044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038740649088807044",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038727204784210084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038727204784210084",
+        "created_at": "2026-03-30T22:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038740649088807044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038740649088807044",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038727204784210084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "2038727204784210084",
+        "created_at": "2026-03-30T21:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T22:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038727204784210084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038727204784210084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吐。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1016,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 438
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "我是幼幼 视奸每个人 2011年 喜欢哥哥 | 惨圈 割手 ｜顺女 | 友跨｜INTP-T｜我是脆弱的小女孩屏蔽你受着 我好像有点病娇 和m属性（brat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2038547254064165059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036910291909263360/pomfFkEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 215,
+          "like_count": 13024,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

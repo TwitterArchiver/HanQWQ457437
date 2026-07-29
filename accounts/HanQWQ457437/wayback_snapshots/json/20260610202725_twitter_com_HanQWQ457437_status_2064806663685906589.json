@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2064730721487667572",
+    "created_at": "2026-06-10T20:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064806663685906589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1840002813813997568",
+          "start": 0,
+          "username": "2nwxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064806663685906589",
+    "in_reply_to_user_id": "1840002813813997568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064730721487667572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2nwxq 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2064730716538331136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdlpbQa4AArgEI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2064730721487667572",
+        "created_at": "2026-06-10T20:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064806663685906589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1840002813813997568",
+              "start": 0,
+              "username": "2nwxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064806663685906589",
+        "in_reply_to_user_id": "1840002813813997568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064730721487667572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2nwxq 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064730716538331136"
+          ]
+        },
+        "author_id": "1840002813813997568",
+        "conversation_id": "2064730721487667572",
+        "created_at": "2026-06-10T15:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064730721487667572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwnqwKopxs",
+              "end": 35,
+              "expanded_url": "https://x.com/2nwxq/status/2064730721487667572/photo/1",
+              "media_key": "3_2064730716538331136",
+              "start": 12,
+              "url": "https://t.co/zwnqwKopxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064730721487667572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1293,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい\n#自撮り界隈 https://t.co/zwnqwKopxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1038,
+          "like_count": 2870,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 813
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T12:17:23.000Z",
+        "description": "❤︎ @nzqlo 🗝@nxwllq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "nzqlo"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "nxwllq"
+              }
+            ]
+          }
+        },
+        "id": "1840002813813997568",
+        "name": "悩殺フレネミー",
+        "pinned_tweet_id": "2025229730849673305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063243479116091392/Kva5aI3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 29,
+          "like_count": 33852,
+          "listed_count": 10,
+          "media_count": 52,
+          "tweet_count": 256
+        },
+        "username": "2nwxq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066433971215646720"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2066433976215200018",
+    "created_at": "2026-06-15T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:12:39.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066433693682638931",
+      "2066433976215200018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jB3tJKSjm5",
+          "end": 167,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2066433976215200018/photo/1",
+          "media_key": "3_2066433971215646720",
+          "start": 144,
+          "url": "https://t.co/jB3tJKSjm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066433976215200018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 上吊的绳子要两条。一根给你，一根给我。系在同一个枝桠上，枝桠要够粗，要能承受两个人的重量。我会先系好自己的，再去帮你系。系的时候手不能抖，绳结要打紧，不能松。你会疼，我也想好了。疼的那一下我握着你的手，我的手比你的大，能把你的整个手包住。你疼的时候捏我，捏多紧都可以。 你反悔也没事，我一个人死。绳子还在，枝桠还在。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 https://t.co/jB3tJKSjm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2272,
+        "media_key": "3_2066433971215646720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1yv5YbwAAlPK8.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066433688544669696"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2066433693682638931",
+        "created_at": "2026-06-15T08:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:12:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066433693682638931",
+          "2066433976215200018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkBbcLyAEF",
+              "end": 167,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2066433693682638931/photo/1",
+              "media_key": "3_2066433688544669696",
+              "start": 144,
+              "url": "https://t.co/UkBbcLyAEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066433693682638931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 上吊的绳子要两条。一根给你，一根给我。系在同一个枝桠上，枝桠要够粗，要能承受两个人的重量。我会先系好自己的，再去帮你系。系的时候手不能抖，绳结要打紧，不能松。你会疼，我也想好了。疼的那一下我握着你的手，我的手比你的大，能把你的整个手包住。你疼的时候捏我，捏多紧都可以。 你反悔也事，我一个人死。绳子还在，枝桠还在。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 https://t.co/UkBbcLyAEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066433971215646720"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2066433976215200018",
+        "created_at": "2026-06-15T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:12:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066433693682638931",
+          "2066433976215200018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jB3tJKSjm5",
+              "end": 167,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2066433976215200018/photo/1",
+              "media_key": "3_2066433971215646720",
+              "start": 144,
+              "url": "https://t.co/jB3tJKSjm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066433976215200018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 上吊的绳子要两条。一根给你，一根给我。系在同一个枝桠上，枝桠要够粗，要能承受两个人的重量。我会先系好自己的，再去帮你系。系的时候手不能抖，绳结要打紧，不能松。你会疼，我也想好了。疼的那一下我握着你的手，我的手比你的大，能把你的整个手包住。你疼的时候捏我，捏多紧都可以。 你反悔也没事，我一个人死。绳子还在，枝桠还在。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的话落下来的时候，我听见了。好 这个字说出来很轻 像答应去吃一顿饭 像答应明天去看场电影可是我们答应的是一起去死。这个好字从嘴里出来的时候 没有犹豫 不是因为勇敢 和你在一起死也不怕。不是不怕死，是怕没有你，死有你陪着，死就不是死了，是另一种活。活在你的眼睛里，活在你答应我的那一刻。 https://t.co/jB3tJKSjm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1034,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 870
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037844506331304177",
+    "created_at": "2026-03-28T10:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037846286595215487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "nuomixingren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037846286595215487",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037844506331304177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuomixingren 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037844506331304177",
+        "created_at": "2026-03-28T10:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037846286595215487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "nuomixingren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037846286595215487",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037844506331304177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuomixingren 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2037844506331304177",
+        "created_at": "2026-03-28T10:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037844506331304177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037844506331304177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么所有人都欺负我我只是想躲在自己的舒适圈安心嗑药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 903,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 331
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "杂垢\n没有repo的习惯",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2034254895709409512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872566376185159680/LeyBFSAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 547,
+          "like_count": 9556,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 2008
+        },
+        "username": "nuomixingren",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2070341229540458655",
+    "created_at": "2026-06-26T06:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070398560752017669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938506841476276224",
+          "start": 0,
+          "username": "zhumao_Mutsumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070398560752017669",
+    "in_reply_to_user_id": "1938506841476276224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070341229540458655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhumao_Mutsumi 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2070341221495742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtUXy8aIAAg2xP.jpg",
+        "width": 652
+      },
+      {
+        "height": 1511,
+        "media_key": "3_2070341221487419392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtUXy6bIAAEks7.jpg",
+        "width": 809
+      },
+      {
+        "height": 795,
+        "media_key": "3_2070341221474861056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtUXy3bgAAiYbI.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2038,
+        "media_key": "3_2070341221609009152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtUXzXacAATT_n.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2070341229540458655",
+        "created_at": "2026-06-26T06:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070398560752017669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938506841476276224",
+              "start": 0,
+              "username": "zhumao_Mutsumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070398560752017669",
+        "in_reply_to_user_id": "1938506841476276224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070341229540458655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhumao_Mutsumi 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070341221495742464",
+            "3_2070341221487419392",
+            "3_2070341221474861056",
+            "3_2070341221609009152"
+          ]
+        },
+        "author_id": "1938506841476276224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070341229540458655",
+        "created_at": "2026-06-26T02:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070341229540458655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "樱羽艾玛"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "桜羽エマ"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j063YOJQjk",
+              "end": 72,
+              "expanded_url": "https://x.com/zhumao_Mutsumi/status/2070341229540458655/photo/1",
+              "media_key": "3_2070341221495742464",
+              "start": 49,
+              "url": "https://t.co/j063YOJQjk"
+            },
+            {
+              "display_url": "pic.x.com/j063YOJQjk",
+              "end": 72,
+              "expanded_url": "https://x.com/zhumao_Mutsumi/status/2070341229540458655/photo/1",
+              "media_key": "3_2070341221487419392",
+              "start": 49,
+              "url": "https://t.co/j063YOJQjk"
+            },
+            {
+              "display_url": "pic.x.com/j063YOJQjk",
+              "end": 72,
+              "expanded_url": "https://x.com/zhumao_Mutsumi/status/2070341229540458655/photo/1",
+              "media_key": "3_2070341221474861056",
+              "start": 49,
+              "url": "https://t.co/j063YOJQjk"
+            },
+            {
+              "display_url": "pic.x.com/j063YOJQjk",
+              "end": 72,
+              "expanded_url": "https://x.com/zhumao_Mutsumi/status/2070341229540458655/photo/1",
+              "media_key": "3_2070341221609009152",
+              "start": 49,
+              "url": "https://t.co/j063YOJQjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070341229540458655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 7044,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "再发一点点存货\n只有存货了喵不要孤立我喵\n#樱羽艾玛 ＃桜羽エマ ＃魔法少女ノ魔女裁判 #男の娘 https://t.co/j063YOJQjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1178,
+          "like_count": 3185,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T07:57:20.000Z",
+        "description": "159\\52kg\\飞柱xnn\\睦头厨\\下头雷批\n又蠢又笨\\断箭入脑人\\塔批\\烤批\\邦批\\纯良\\\n\n无🚪\n\n平常喜欢发清水，有的时候会微涩（？）\n\n平常喜欢发一些足和腿（）是腿控喵",
+        "id": "1938506841476276224",
+        "name": "猪猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050844622436601857/fjxS3tRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 98,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "zhumao_Mutsumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2079950637660569712",
+    "created_at": "2026-07-23T01:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080110389971337398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080110389971337398",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079950637660569712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod 真的假的😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2079950637660569712",
+        "created_at": "2026-07-23T01:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080110389971337398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080110389971337398",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079950637660569712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod 真的假的😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624337198765178881",
+        "conversation_id": "2079950637660569712",
+        "created_at": "2026-07-22T15:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079950637660569712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079950637660569712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼把我妈赶出去两天了\n啃泡面如此香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 1065,
+          "like_count": 3462,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\n负能量警告\n顺男\n14岁傻逼低龄做题区\n爱好喵斯 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n割手 偶尔压力太大会od\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭@Surajazeem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Surajazeem"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 80,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

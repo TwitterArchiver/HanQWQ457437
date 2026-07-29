@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2063203541653856598",
+    "created_at": "2026-06-13T08:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065713763563786692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904521959070892032",
+          "start": 0,
+          "username": "ShounishiNano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065713763563786692",
+    "in_reply_to_user_id": "1904521959070892032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063203541653856598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShounishiNano 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A girl with cute anime-style bare feet. Blue Archive Koharu cosplay 下江 コハル .",
+        "height": 2048,
+        "media_key": "3_2063203504597172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH4p_bbAAAjKqH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2063203541653856598",
+        "created_at": "2026-06-13T08:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065713763563786692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904521959070892032",
+              "start": 0,
+              "username": "ShounishiNano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065713763563786692",
+        "in_reply_to_user_id": "1904521959070892032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063203541653856598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShounishiNano 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063203504597172224"
+          ]
+        },
+        "author_id": "1904521959070892032",
+        "conversation_id": "2063203541653856598",
+        "created_at": "2026-06-06T10:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063203541653856598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wC8Ns1rlff",
+              "end": 23,
+              "expanded_url": "https://x.com/ShounishiNano/status/2063203541653856598/photo/1",
+              "media_key": "3_2063203504597172224",
+              "start": 0,
+              "url": "https://t.co/wC8Ns1rlff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203541653856598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 18011,
+          "like_count": 1570,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wC8Ns1rlff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1035,
+          "like_count": 2878,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 848
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T13:13:25.000Z",
+        "description": "Thanks for finding me! (๑˃ᴗ˂)ﻭ\nFeel free to DM me if you have anything to say~✨🐾 \nENG | 中文",
+        "id": "1904521959070892032",
+        "location": "✧･ﾟ Mars⋆｡°✩",
+        "name": "柠栖 ♜⃤",
+        "pinned_tweet_id": "2064662117744296189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056439320966557696/fEo8zE9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20214,
+          "following_count": 1094,
+          "like_count": 8921,
+          "listed_count": 65,
+          "media_count": 136,
+          "tweet_count": 1692
+        },
+        "username": "ShounishiNano",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2059481102948139019",
+    "created_at": "2026-05-27T03:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059484706497081590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026876224589701120",
+          "start": 0,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059484706497081590",
+    "in_reply_to_user_id": "2026876224589701120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059481102948139019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo33w 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059481088721047552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS_I3raUAA3XTy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059481088729423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS_I3taIAAB1sA.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059481088725299200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS_I3sbMAA5CE0.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2059481102948139019",
+        "created_at": "2026-05-27T03:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059484706497081590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059484706497081590",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059481102948139019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059481088721047552",
+            "3_2059481088729423872",
+            "3_2059481088725299200"
+          ]
+        },
+        "author_id": "2026876224589701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059481102948139019",
+        "created_at": "2026-05-27T03:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059481102948139019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bA7yihYyZd",
+              "end": 80,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2059481102948139019/photo/1",
+              "media_key": "3_2059481088721047552",
+              "start": 57,
+              "url": "https://t.co/bA7yihYyZd"
+            },
+            {
+              "display_url": "pic.x.com/bA7yihYyZd",
+              "end": 80,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2059481102948139019/photo/1",
+              "media_key": "3_2059481088729423872",
+              "start": 57,
+              "url": "https://t.co/bA7yihYyZd"
+            },
+            {
+              "display_url": "pic.x.com/bA7yihYyZd",
+              "end": 80,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2059481102948139019/photo/1",
+              "media_key": "3_2059481088725299200",
+              "start": 57,
+              "url": "https://t.co/bA7yihYyZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059481102948139019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完思诺思我把开到的约150t以上阿普按小圆片 椭圆片 尖头椭圆片一片片数着归类…还给打火机做了淬火…整理了药柜 https://t.co/bA7yihYyZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1053,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 780
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 97,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 703
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

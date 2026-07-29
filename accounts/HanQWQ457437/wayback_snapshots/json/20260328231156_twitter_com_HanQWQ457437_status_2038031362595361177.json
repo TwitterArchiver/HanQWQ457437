@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2035538568580419869",
+    "created_at": "2026-03-28T23:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T00:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038031362595361177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2559711131",
+          "start": 0,
+          "username": "kusutobi6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038031362595361177",
+    "in_reply_to_user_id": "2559711131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035538568580419869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusutobi6 比donk长"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3533,
+        "height": 1280,
+        "media_key": "13_2035538555087491072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035538555087491072/img/OBYIv0UnWJWhX6Hp.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035538555087491072/vid/avc1/320x568/NZkXbQMw6BrYAHrx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035538555087491072/vid/avc1/480x852/k4PndSItpzQsDH7x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035538555087491072/vid/avc1/720x1280/K64Ut7NwcXkriPBO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035538555087491072/pl/HEILJFxQk5KqirfR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2035538568580419869",
+        "created_at": "2026-03-28T23:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038031362595361177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2559711131",
+              "start": 0,
+              "username": "kusutobi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038031362595361177",
+        "in_reply_to_user_id": "2559711131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035538568580419869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusutobi6 比donk长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035538555087491072"
+          ]
+        },
+        "author_id": "2559711131",
+        "conversation_id": "2035538568580419869",
+        "created_at": "2026-03-22T02:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035538568580419869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVM6ZJDsuA",
+              "end": 43,
+              "expanded_url": "https://x.com/kusutobi6/status/2035538568580419869/video/1",
+              "media_key": "13_2035538555087491072",
+              "start": 20,
+              "url": "https://t.co/hVM6ZJDsuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035538568580419869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是这个卷毛适合我 顺毛犹如donk😢 https://t.co/hVM6ZJDsuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 933,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 357
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-23T02:01:17.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/小号防走丢@yaminoko_yuri/问题咨询https://t.co/FtkJIgSKD0 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "yaminoko_yuri"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 123,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 100,
+                "url": "https://t.co/FtkJIgSKD0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/b7JClrbwTj"
+              }
+            ]
+          }
+        },
+        "id": "2559711131",
+        "name": "楠鸢Kusutobi（六代目)",
+        "pinned_tweet_id": "2029935877070217693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934731509350400/04C_VxOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 44,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/b7JClrbwTj",
+        "username": "kusutobi6",
+        "verified": false
+      }
+    ]
+  }
+}

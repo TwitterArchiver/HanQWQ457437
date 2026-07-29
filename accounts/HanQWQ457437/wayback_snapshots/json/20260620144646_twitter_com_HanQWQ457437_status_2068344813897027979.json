@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2068294976082161823",
+    "created_at": "2026-06-20T14:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068344813897027979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940190746016976897",
+          "start": 0,
+          "username": "sakarayaner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068344813897027979",
+    "in_reply_to_user_id": "1940190746016976897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068294976082161823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakarayaner 關注塔菲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5935,
+        "height": 1280,
+        "media_key": "13_2068294896923152384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068294896923152384/img/VHHD5BE6wndzRC8F.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068294896923152384/vid/avc1/320x568/i5QBypU6sDbC9IC2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068294896923152384/vid/avc1/480x852/qLDpNfjQvAi-s9Io.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068294896923152384/vid/avc1/720x1280/0hLH5D4x595ZrG1t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068294896923152384/pl/SR-FzCpL13kLTRBW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2068294976082161823",
+        "created_at": "2026-06-20T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068344813897027979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940190746016976897",
+              "start": 0,
+              "username": "sakarayaner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068344813897027979",
+        "in_reply_to_user_id": "1940190746016976897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068294976082161823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakarayaner 關注塔菲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068294896923152384"
+          ]
+        },
+        "author_id": "1940190746016976897",
+        "conversation_id": "2068294976082161823",
+        "created_at": "2026-06-20T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068294976082161823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSyVoISz1F",
+              "end": 28,
+              "expanded_url": "https://x.com/sakarayaner/status/2068294976082161823/video/1",
+              "media_key": "13_2068294896923152384",
+              "start": 5,
+              "url": "https://t.co/QSyVoISz1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068294976082161823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼塔菲 https://t.co/QSyVoISz1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1168,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T23:28:26.000Z",
+        "description": "i 🩶 uuu so @in2dkira | coser | 舞萌| 不闲聊私信只回口令 | 不接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1940190746016976897",
+        "location": "🚪88/188/520",
+        "name": "sakara",
+        "pinned_tweet_id": "2041544288291725341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032452412095750145/e_dC_gVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 42,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "sakarayaner",
+        "verified": false
+      }
+    ]
+  }
+}

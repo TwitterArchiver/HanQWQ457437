@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2048889353339027700",
+    "created_at": "2026-05-08T22:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052883442233405790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849183768445353984",
+          "start": 0,
+          "username": "B17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052883442233405790",
+    "in_reply_to_user_id": "1849183768445353984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048889353339027700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B17w153 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2048889353339027700",
+        "created_at": "2026-05-08T22:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052883442233405790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849183768445353984",
+              "start": 0,
+              "username": "B17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052883442233405790",
+        "in_reply_to_user_id": "1849183768445353984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048889353339027700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B17w153 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "2048889353339027700",
+        "created_at": "2026-04-27T22:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048889353339027700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048889353339027700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，急性精神病真有意思，各种角落露个人半个身子，还有一个影子人直接站窗子外面和我脸贴脸了，真是好一场酣畅淋漓的binge啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1487,
+          "like_count": 2178,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 560
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 197,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 545
+        },
+        "username": "B17w153",
+        "verified": false
+      }
+    ]
+  }
+}

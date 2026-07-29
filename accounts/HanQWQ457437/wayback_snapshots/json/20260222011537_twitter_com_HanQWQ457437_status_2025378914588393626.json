@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2025131281328341057",
+    "created_at": "2026-02-22T01:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025378914588393626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2250210022",
+          "start": 0,
+          "username": "stelios199948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025378914588393626",
+    "in_reply_to_user_id": "2250210022",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025131281328341057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stelios199948 😢😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2025131281328341057",
+        "created_at": "2026-02-22T01:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025378914588393626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2250210022",
+              "start": 0,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025378914588393626",
+        "in_reply_to_user_id": "2250210022",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025131281328341057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stelios199948 😢😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2250210022",
+        "conversation_id": "2025131281328341057",
+        "created_at": "2026-02-21T08:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025131281328341057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025131281328341057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，今天在亲戚家被狠狠劝酒，还叨叨我手指甲,有个人喝多了和我说话两分钟提五次手指甲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "👁️👁️👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018926758679171073/EFUZ-tHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 132,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 119
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|177cm|60Kg|\n喜欢文学，尤其是现实主义\nl出柜|家长求神拜鬼中|自由|平等|独立|私信不提示，晚回请见谅",
+        "id": "2250210022",
+        "name": "空气味🍥软糖",
+        "pinned_tweet_id": "2024694651081674809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024738450784866304/ItqCGyJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 352,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 288
+        },
+        "username": "stelios199948",
+        "verified": false
+      }
+    ]
+  }
+}

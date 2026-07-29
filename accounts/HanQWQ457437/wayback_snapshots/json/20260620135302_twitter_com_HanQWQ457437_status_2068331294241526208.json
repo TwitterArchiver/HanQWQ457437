@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2066168178854826251",
+    "created_at": "2026-06-20T13:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068331294241526208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1433641356",
+          "start": 0,
+          "username": "sakiiloveyouqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068331294241526208",
+    "in_reply_to_user_id": "1433641356",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066168178854826251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakiiloveyouqwq 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1913,
+        "media_key": "3_2066168175797182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyBAkSboAAVgx1.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2066168178854826251",
+        "created_at": "2026-06-20T13:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068331294241526208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1433641356",
+              "start": 0,
+              "username": "sakiiloveyouqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068331294241526208",
+        "in_reply_to_user_id": "1433641356",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066168178854826251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakiiloveyouqwq 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066168175797182464"
+          ]
+        },
+        "author_id": "1433641356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066168178854826251",
+        "created_at": "2026-06-14T14:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066168178854826251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9ltKIRwtS",
+              "end": 52,
+              "expanded_url": "https://x.com/sakiiloveyouqwq/status/2066168178854826251/photo/1",
+              "media_key": "3_2066168175797182464",
+              "start": 29,
+              "url": "https://t.co/L9ltKIRwtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066168178854826251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个傻逼喝完柠檬水乱扔，我他妈路过瞟一眼还以为是用完的套 https://t.co/L9ltKIRwtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1136,
+          "like_count": 2985,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-16T17:56:27.000Z",
+        "description": "170/52每天厌学中。已过烧杯学长验证\n🚪52\n……我想要钱。\n防走丢请入🚪(我不是机器人。。x你能不能别再封我号了。。。)",
+        "id": "1433641356",
+        "location": "Tokyo-to, Japan",
+        "name": "saki",
+        "pinned_tweet_id": "2066603467767160997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066439581046882304/hc31jOTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 79,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "sakiiloveyouqwq",
+        "verified": false
+      }
+    ]
+  }
+}

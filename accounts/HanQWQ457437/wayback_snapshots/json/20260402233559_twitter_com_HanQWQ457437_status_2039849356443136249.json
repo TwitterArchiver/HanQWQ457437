@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2039849356443136249",
+    "created_at": "2026-04-02T23:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T00:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039849356443136249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039849356443136249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好狠的心，你竟然责怪我。责怪我这个可怜无助的人。我无助的望着乌黑暗沉的天，那一片云朵像是被你的狠心撕碎般糜烂没有一丝光彩，我对着天空嚎叫但是又有谁能在意我，我只想让你明白可是这一切都没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2039849356443136249",
+        "created_at": "2026-04-02T23:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039849356443136249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039849356443136249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好狠的心，你竟然责怪我。责怪我这个可怜无助的人。我无助的望着乌黑暗沉的天，那一片云朵像是被你的狠心撕碎般糜烂没有一丝光彩，我对着天空嚎叫但是又有谁能在意我，我只想让你明白可是这一切都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1157,
+          "like_count": 1770,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 481
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

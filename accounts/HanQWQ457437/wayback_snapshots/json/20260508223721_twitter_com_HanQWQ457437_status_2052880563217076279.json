@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052841344201363757",
+    "created_at": "2026-05-08T22:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052880563217076279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008564428556656640",
+          "start": 0,
+          "username": "shioriTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052880563217076279",
+    "in_reply_to_user_id": "2008564428556656640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052841344201363757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shioriTT 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052841344201363757",
+        "created_at": "2026-05-08T22:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052880563217076279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008564428556656640",
+              "start": 0,
+              "username": "shioriTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052880563217076279",
+        "in_reply_to_user_id": "2008564428556656640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052841344201363757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shioriTT 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008564428556656640",
+        "conversation_id": "2052841344201363757",
+        "created_at": "2026-05-08T20:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052841344201363757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052841344201363757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我希望能有个人在意我发出的所有信息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1480,
+          "like_count": 2170,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 552
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T15:41:11.000Z",
+        "description": "hello我是雨柚\n精神病患者｜od｜割腕｜暴食",
+        "id": "2008564428556656640",
+        "name": "笨蛋小魅魔",
+        "pinned_tweet_id": "2046821416893583871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038153844493078528/HqiDgTFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 200
+        },
+        "username": "shioriTT",
+        "verified": false
+      }
+    ]
+  }
+}

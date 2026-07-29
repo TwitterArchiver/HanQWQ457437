@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2067856172087144545",
+    "created_at": "2026-06-20T14:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068336247639249064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1905127566002044928",
+          "start": 0,
+          "username": "KobatoMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068336247639249064",
+    "in_reply_to_user_id": "1905127566002044928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067856172087144545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KobatoMB 🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067856169583124480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKAOvKaIAA86Vo.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2067856172087144545",
+        "created_at": "2026-06-20T14:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068336247639249064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905127566002044928",
+              "start": 0,
+              "username": "KobatoMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336247639249064",
+        "in_reply_to_user_id": "1905127566002044928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067856172087144545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KobatoMB 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067856169583124480"
+          ]
+        },
+        "author_id": "1905127566002044928",
+        "conversation_id": "2067856172087144545",
+        "created_at": "2026-06-19T06:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067856172087144545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNWxQjNW94",
+              "end": 29,
+              "expanded_url": "https://x.com/KobatoMB/status/2067856172087144545/photo/1",
+              "media_key": "3_2067856169583124480",
+              "start": 6,
+              "url": "https://t.co/DNWxQjNW94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067856172087144545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2987,
+          "like_count": 298,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "贴了脚趾甲 https://t.co/DNWxQjNW94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1142,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T05:19:54.000Z",
+        "description": "发癫小空间 不搞🔞\n请不要搬到墙内平台",
+        "id": "1905127566002044928",
+        "location": "带把不线下 别问了 发图只为开心   🚪30",
+        "name": "棉花糖小小子",
+        "pinned_tweet_id": "1985613741191545278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905129188476243968/gsYPwiJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24325,
+          "following_count": 165,
+          "like_count": 1935,
+          "listed_count": 83,
+          "media_count": 383,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "KobatoMB",
+        "verified": false
+      }
+    ]
+  }
+}

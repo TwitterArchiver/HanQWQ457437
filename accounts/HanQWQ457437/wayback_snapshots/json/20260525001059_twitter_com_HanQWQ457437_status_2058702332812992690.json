@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "1992542799569559620",
+    "created_at": "2026-05-25T00:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058702332812992690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169075313244065792",
+          "start": 0,
+          "username": "ShelbyF47093145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058702332812992690",
+    "in_reply_to_user_id": "1169075313244065792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992542799569559620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShelbyF47093145 忧郁的神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35016,
+        "height": 1920,
+        "media_key": "13_1992542647018553344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992542647018553344/img/ZaYfk7QwES1FGTpX.jpg",
+        "public_metrics": {
+          "view_count": 1189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992542647018553344/vid/avc1/320x568/0TUY4Hy9ClwtNtUr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992542647018553344/vid/avc1/480x852/a_SJA00V32egLvbs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992542647018553344/vid/avc1/720x1280/DcMqIJxc3L2w6UiZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992542647018553344/pl/A7V1fBmOdoKM_ZNW.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "1992542799569559620",
+        "created_at": "2026-05-25T00:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058702332812992690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169075313244065792",
+              "start": 0,
+              "username": "ShelbyF47093145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058702332812992690",
+        "in_reply_to_user_id": "1169075313244065792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992542799569559620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShelbyF47093145 忧郁的神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992542647018553344"
+          ]
+        },
+        "author_id": "1169075313244065792",
+        "conversation_id": "1992542799569559620",
+        "created_at": "2025-11-23T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992542799569559620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "yakui"
+            },
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "overdoes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/822hEcVqxz",
+              "end": 49,
+              "expanded_url": "https://x.com/ShelbyF47093145/status/1992542799569559620/video/1",
+              "media_key": "13_1992542647018553344",
+              "start": 26,
+              "url": "https://t.co/822hEcVqxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992542799569559620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3349,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "对哦这边能发出来 #yakui #overdoes https://t.co/822hEcVqxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 986,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 749
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-04T02:31:00.000Z",
+        "description": "我就是一个普通的精神病\n属性black souls 084",
+        "id": "1169075313244065792",
+        "name": "404Pill0www",
+        "pinned_tweet_id": "2015421695335780744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036070871463600128/2FCRU90u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 26,
+          "like_count": 1302,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 326
+        },
+        "username": "ShelbyF47093145",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2038062561413988366",
+    "created_at": "2026-03-29T01:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T02:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038066461353353260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025392271152349184",
+          "start": 0,
+          "username": "yuyu52030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038066461353353260",
+    "in_reply_to_user_id": "2025392271152349184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038063638578413669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu52030 很棒🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038062561413988366",
+        "created_at": "2026-03-29T01:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038066461353353260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025392271152349184",
+              "start": 0,
+              "username": "yuyu52030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038066461353353260",
+        "in_reply_to_user_id": "2025392271152349184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038063638578413669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu52030 很棒🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025392271152349184",
+        "conversation_id": "2038062561413988366",
+        "created_at": "2026-03-29T01:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038063638578413669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038063638578413669",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038063458160443880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 935,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 367
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T02:09:09.000Z",
+        "description": "第二人格@yuyu177570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "yuyu177570"
+              }
+            ]
+          }
+        },
+        "id": "2025392271152349184",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2037722582976492017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037719692853563392/GTnx0f5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 146,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 134
+        },
+        "username": "yuyu52030",
+        "verified": false
+      }
+    ]
+  }
+}

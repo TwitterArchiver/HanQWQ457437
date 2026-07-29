@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053394075228033024"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053394077853565334",
+    "created_at": "2026-05-10T08:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053394077853565334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SIONXWZdjv",
+          "end": 108,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2053394077853565334/photo/1",
+          "media_key": "3_2053394075228033024",
+          "start": 85,
+          "url": "https://t.co/SIONXWZdjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053394077853565334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "good文案:如果你有精神病那就太好了 如果你自卑害怕周围所有人那就太好了 如果你仇恨整个世界那就太好了 如果你只依赖我那就太好了 我想你每天只想着我一个人 不要离开我 https://t.co/SIONXWZdjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2194,
+        "media_key": "3_2053394075228033024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8fCDXb0AAdbny.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053394075228033024"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053394077853565334",
+        "created_at": "2026-05-10T08:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053394077853565334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIONXWZdjv",
+              "end": 108,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2053394077853565334/photo/1",
+              "media_key": "3_2053394075228033024",
+              "start": 85,
+              "url": "https://t.co/SIONXWZdjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053394077853565334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "good文案:如果你有精神病那就太好了 如果你自卑害怕周围所有人那就太好了 如果你仇恨整个世界那就太好了 如果你只依赖我那就太好了 我想你每天只想着我一个人 不要离开我 https://t.co/SIONXWZdjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1624,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 652
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053485474166292609",
+    "created_at": "2026-05-11T03:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053682474430193947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053682474430193947",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053485474166292609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 终于看到手了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2053485430922981379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9yHp2asAMv6Gn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2053485430826557441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9yHpfbYAE3KlT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053485474166292609",
+        "created_at": "2026-05-11T03:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053682474430193947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053682474430193947",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053485474166292609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 终于看到手了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053485430922981379",
+            "3_2053485430826557441"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053485474166292609",
+        "created_at": "2026-05-10T14:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053485474166292609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAKQMwEiNi",
+              "end": 55,
+              "expanded_url": "https://x.com/4rulq/status/2053485474166292609/photo/1",
+              "media_key": "3_2053485430922981379",
+              "start": 32,
+              "url": "https://t.co/KAKQMwEiNi"
+            },
+            {
+              "display_url": "pic.x.com/KAKQMwEiNi",
+              "end": 55,
+              "expanded_url": "https://x.com/4rulq/status/2053485474166292609/photo/1",
+              "media_key": "3_2053485430826557441",
+              "start": 32,
+              "url": "https://t.co/KAKQMwEiNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053485474166292609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致亖量喵⋯⋯⋯⋯⋯😭 窩藥od這個喵、還有四版、足以讓我吐惹⋯ https://t.co/KAKQMwEiNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1624,
+          "like_count": 2451,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 675
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮（正在好轉）重度性焦慮\n重度の不安（改善しています）\nHRT：2026/5/6",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 562,
+          "like_count": 2071,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 2071
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

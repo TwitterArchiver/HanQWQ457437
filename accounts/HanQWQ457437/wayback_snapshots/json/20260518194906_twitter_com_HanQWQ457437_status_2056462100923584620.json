@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2056459760359370850",
+    "created_at": "2026-05-18T19:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056462100923584620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1514597232321830926",
+          "start": 0,
+          "username": "nuannuanbaobao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056462100923584620",
+    "in_reply_to_user_id": "1514597232321830926",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056459760359370850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuannuanbaobao2 😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2056459760359370850",
+        "created_at": "2026-05-18T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056462100923584620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1514597232321830926",
+              "start": 0,
+              "username": "nuannuanbaobao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056462100923584620",
+        "in_reply_to_user_id": "1514597232321830926",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056459760359370850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuannuanbaobao2 😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514597232321830926",
+        "conversation_id": "2056459760359370850",
+        "created_at": "2026-05-18T19:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056459760359370850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056459760359370850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不o了……好晕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤 支持加密货币🤤🤤",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2056260551098180052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895010135126016/RMgJOTkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 998,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 733
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-14T13:32:00.000Z",
+        "description": "我只是一只小兔",
+        "id": "1514597232321830926",
+        "location": "公司天台",
+        "name": "小小兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052945283227770880/V9H4MDTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 37
+        },
+        "username": "nuannuanbaobao2",
+        "verified": false
+      }
+    ]
+  }
+}

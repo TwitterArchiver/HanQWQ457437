@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2038284203666837918",
+    "created_at": "2026-03-29T16:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038293233118396812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003081079931166720",
+          "start": 0,
+          "username": "Winterweather01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038293233118396812",
+    "in_reply_to_user_id": "2003081079931166720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038284203666837918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winterweather01 我难受死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038284203666837918",
+        "created_at": "2026-03-29T16:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038293233118396812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003081079931166720",
+              "start": 0,
+              "username": "Winterweather01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038293233118396812",
+        "in_reply_to_user_id": "2003081079931166720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038284203666837918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winterweather01 我难受死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003081079931166720",
+        "conversation_id": "2038284203666837918",
+        "created_at": "2026-03-29T15:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038284203666837918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038284203666837918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我难受死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 966,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 391
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T12:32:20.000Z",
+        "description": "姜云升全肯定🩷上海杭州可以陪我去吃滨寿司。不定时血图 看成分互fo 欢迎大家跟我互动🥺🫶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhh33921",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhhh33921",
+                "start": 0,
+                "url": "https://t.co/TftLGguoov"
+              }
+            ]
+          }
+        },
+        "id": "2003081079931166720",
+        "name": "你残缺的灵魂让你的爱也畸形",
+        "pinned_tweet_id": "2031328399923490859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028857175410663424/MaIzbS2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 27,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/TftLGguoov",
+        "username": "Winterweather01",
+        "verified": false
+      }
+    ]
+  }
+}

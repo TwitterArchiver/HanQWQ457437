@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037293139644350697",
+    "created_at": "2026-03-26T22:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037293139644350697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekoTiao0w0/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nekoTiao0w0/status/2037275028321165808",
+          "start": 4,
+          "url": "https://t.co/cBNZTWhMip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037293139644350697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037275028321165808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐怖😱 https://t.co/cBNZTWhMip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2037275020544925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXa1lVbYAApKLH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037293139644350697",
+        "created_at": "2026-03-26T22:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037293139644350697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekoTiao0w0/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nekoTiao0w0/status/2037275028321165808",
+              "start": 4,
+              "url": "https://t.co/cBNZTWhMip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037293139644350697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037275028321165808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐怖😱 https://t.co/cBNZTWhMip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037275020544925696"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2037275028321165808",
+        "created_at": "2026-03-26T21:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037275028321165808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9J8VZuPCHG",
+              "end": 23,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2037275028321165808/photo/1",
+              "media_key": "3_2037275020544925696",
+              "start": 0,
+              "url": "https://t.co/9J8VZuPCHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037275028321165808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9J8VZuPCHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032019125917401089/hCOxWkfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 839,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 227
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@kklqaq只通过信任的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "kklqaq"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188  ",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 228,
+          "like_count": 7124,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3384
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2055225572427727289",
+    "created_at": "2026-05-15T10:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055230233545150668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642466383832449024",
+          "start": 0,
+          "username": "Rei01_Shimizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055230233545150668",
+    "in_reply_to_user_id": "1642466383832449024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055230018473853015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei01_Shimizu 🥲🥲🥰🥰🥰謝謝你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2055225572427727289",
+        "created_at": "2026-05-15T10:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055230233545150668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642466383832449024",
+              "start": 0,
+              "username": "Rei01_Shimizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055230233545150668",
+        "in_reply_to_user_id": "1642466383832449024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055230018473853015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei01_Shimizu 🥲🥲🥰🥰🥰謝謝你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642466383832449024",
+        "conversation_id": "2055225572427727289",
+        "created_at": "2026-05-15T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055230018473853015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055230018473853015",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055229807412363556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2054129295426191390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 983,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 715
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T09:58:07.000Z",
+        "description": "爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我",
+        "id": "1642466383832449024",
+        "location": "地球",
+        "name": "レイイイイイイイイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054260051003785216/BojDu-fF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 13,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "Rei01_Shimizu",
+        "verified": false
+      }
+    ]
+  }
+}

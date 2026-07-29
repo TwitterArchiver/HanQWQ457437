@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2042068409660404054",
+    "created_at": "2026-04-09T06:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042122678346416251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042122678346416251",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042068409660404054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042068395039059969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbiYs1a8AEI7bK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2042068409660404054",
+        "created_at": "2026-04-09T06:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042122678346416251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042122678346416251",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042068409660404054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042068395039059969"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2042068409660404054",
+        "created_at": "2026-04-09T02:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042068409660404054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beb3MSVADF",
+              "end": 61,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2042068409660404054/photo/1",
+              "media_key": "3_2042068395039059969",
+              "start": 38,
+              "url": "https://t.co/beb3MSVADF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042068409660404054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11784,
+          "like_count": 223,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你牛大了 这位姐姐吞药自杀这么悲哀的事情给你拿上面当反面教材 有没有人性！ https://t.co/beb3MSVADF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2028352896405037305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040215650199887872/vxVE2M5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1318,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 521
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "编辑个人资料 /区宝宝啦啦啦@valentina748264",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "valentina748264"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "啤酒厂",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2026241131324084508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 372,
+          "like_count": 23918,
+          "listed_count": 15,
+          "media_count": 1208,
+          "tweet_count": 15884
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

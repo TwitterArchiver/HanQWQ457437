@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053136451689435376",
+    "created_at": "2026-05-11T04:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053693859381846427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042551027585761280",
+          "start": 0,
+          "username": "usono_3ka9_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053693859381846427",
+    "in_reply_to_user_id": "2042551027585761280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053136451689435376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usono_3ka9_ 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2053136442965291008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH40t4Za8AA09Ki.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053136451689435376",
+        "created_at": "2026-05-11T04:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053693859381846427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042551027585761280",
+              "start": 0,
+              "username": "usono_3ka9_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053693859381846427",
+        "in_reply_to_user_id": "2042551027585761280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053136451689435376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usono_3ka9_ 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053136442965291008"
+          ]
+        },
+        "author_id": "2042551027585761280",
+        "conversation_id": "2053136451689435376",
+        "created_at": "2026-05-09T15:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053136451689435376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxcPF2CbK1",
+              "end": 49,
+              "expanded_url": "https://x.com/usono_3ka9_/status/2053136451689435376/photo/1",
+              "media_key": "3_2053136442965291008",
+              "start": 26,
+              "url": "https://t.co/GxcPF2CbK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053136451689435376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老怪我干啥？你周围如果全是骚货，你未必有我这么冷静 https://t.co/GxcPF2CbK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1623,
+          "like_count": 2460,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 678
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T10:41:37.000Z",
+        "description": "不接非绿…..喜欢我可以过门槛｜私信@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "skk_minii"
+              }
+            ]
+          }
+        },
+        "id": "2042551027585761280",
+        "location": "🚪52/288/588/1388",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "2053424428407751013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043702723732963328/5f0vp76c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 34,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 68
+        },
+        "username": "usono_3ka9_",
+        "verified": false
+      }
+    ]
+  }
+}

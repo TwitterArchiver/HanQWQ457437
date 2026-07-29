@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037206513211847064",
+    "created_at": "2026-03-26T22:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037296693134188625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647583469407727616",
+          "start": 0,
+          "username": "Fan_yyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037296693134188625",
+    "in_reply_to_user_id": "1647583469407727616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037206513211847064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fan_yyin 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51349,
+        "height": 720,
+        "media_key": "7_2037206443624194049",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037206443624194049/pu/img/E5-93KGwHENGZESg.jpg",
+        "public_metrics": {
+          "view_count": 142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037206443624194049/pu/vid/avc1/480x270/TYyA734zED7Wy7R6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037206443624194049/pu/vid/avc1/640x360/K9cczwFy8i4Wya00.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037206443624194049/pu/vid/avc1/1280x720/wMg3-wTfeDy0lXif.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037206443624194049/pu/pl/u8dU2shwixyXlLQ8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037206513211847064",
+        "created_at": "2026-03-26T22:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037296693134188625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647583469407727616",
+              "start": 0,
+              "username": "Fan_yyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037296693134188625",
+        "in_reply_to_user_id": "1647583469407727616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037206513211847064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fan_yyin 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037206443624194049"
+          ]
+        },
+        "author_id": "1647583469407727616",
+        "conversation_id": "2037206513211847064",
+        "created_at": "2026-03-26T16:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037206513211847064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBIQ3RPB2K",
+              "end": 31,
+              "expanded_url": "https://x.com/Fan_yyin/status/2037206513211847064/video/1",
+              "media_key": "7_2037206443624194049",
+              "start": 8,
+              "url": "https://t.co/nBIQ3RPB2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037206513211847064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对小毛米啄米吧 https://t.co/nBIQ3RPB2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032019125917401089/hCOxWkfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 843,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 234
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07/",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "pinned_tweet_id": "2007584664475832415",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6030,
+          "following_count": 72,
+          "like_count": 16,
+          "listed_count": 9,
+          "media_count": 236,
+          "tweet_count": 327
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

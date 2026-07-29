@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037915515424026633",
+    "created_at": "2026-03-28T21:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T22:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038006270817702172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038006270817702172",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037915515424026633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 一般这种人我都懒得说些什么，无视掉就行了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037915515424026633",
+        "created_at": "2026-03-28T21:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038006270817702172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038006270817702172",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037915515424026633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 一般这种人我都懒得说些什么，无视掉就行了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820986559694520320",
+        "conversation_id": "2037915515424026633",
+        "created_at": "2026-03-28T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037915515424026633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037915515424026633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌虚与委蛇的人，10句话里八句是假的两句是真的，还让人去猜，猜不到还要怪别人，别人说真话直接说还要急眼生气脑子有病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 917,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 352
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜快速了解我：intp 双相 sub｜这里好像只有碎碎念｜直fo就是喜欢你｜查成分互fo\n不会混圈不懂各种规则先道个歉TT\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 95,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 72,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52/88/128/520",
+        "name": "みず",
+        "pinned_tweet_id": "2037275873448247317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 134,
+          "like_count": 3055,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 845
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

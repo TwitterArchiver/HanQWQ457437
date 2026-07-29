@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053066681703120896"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053049718952124584",
+    "created_at": "2026-05-09T10:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053066683645104415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gtApc0hObF",
+          "end": 42,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2053066683645104415/photo/1",
+          "media_key": "3_2053066681703120896",
+          "start": 19,
+          "url": "https://t.co/gtApc0hObF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053066683645104415",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053049718952124584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 塔菲 https://t.co/gtApc0hObF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2053066681703120896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH31RPcawAAA03F.png",
+        "width": 736
+      },
+      {
+        "height": 942,
+        "media_key": "3_2053049716036997120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3l1taaEAA-CyE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053066681703120896"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053049718952124584",
+        "created_at": "2026-05-09T10:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053066683645104415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtApc0hObF",
+              "end": 42,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2053066683645104415/photo/1",
+              "media_key": "3_2053066681703120896",
+              "start": 19,
+              "url": "https://t.co/gtApc0hObF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053066683645104415",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053049718952124584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 塔菲 https://t.co/gtApc0hObF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053049716036997120"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "conversation_id": "2053049718952124584",
+        "created_at": "2026-05-09T09:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053049718952124584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zs4zLftfM1",
+              "end": 47,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2053049718952124584/photo/1",
+              "media_key": "3_2053049716036997120",
+              "start": 24,
+              "url": "https://t.co/Zs4zLftfM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053049718952124584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互动贴\n谁来和我互动（图片文案内容指出cos） https://t.co/Zs4zLftfM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1677,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 614
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ayameeii"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星雫瑞星",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 167,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 311
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

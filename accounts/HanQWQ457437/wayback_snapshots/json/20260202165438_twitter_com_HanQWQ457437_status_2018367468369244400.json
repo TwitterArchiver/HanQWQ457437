@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2018232474892165431",
+    "created_at": "2026-02-02T16:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018367468369244400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        },
+        {
+          "end": 25,
+          "id": "1974036716727201792",
+          "start": 13,
+          "username": "jilianmeing"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01aeb1b01984e934"
+    },
+    "id": "2018367468369244400",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018333551230582834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 @jilianmeing 😱😱😱"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "Western Bay of Plenty District, New Zealand",
+        "geo": {
+          "bbox": [
+            175.805921,
+            -38.026823,
+            176.602945,
+            -37.373242
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "01aeb1b01984e934",
+        "name": "Western Bay of Plenty District",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2018232474892165431",
+        "created_at": "2026-02-02T16:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018367468369244400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            },
+            {
+              "end": 25,
+              "id": "1974036716727201792",
+              "start": 13,
+              "username": "jilianmeing"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01aeb1b01984e934"
+        },
+        "id": "2018367468369244400",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018333551230582834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 @jilianmeing 😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2018232474892165431",
+        "created_at": "2026-02-02T14:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018333551230582834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018333551230582834",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018333466174308767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing 支持，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "New Zealand",
+        "name": "tomoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017321522126589952/FrribwYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 61,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1425,
+          "like_count": 24660,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2649
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "人生璀璨如星河\n明天 有个盛大舞台为我敞开\n这就是我 独一无二的模样\n这是不允许世界上有一处反对张元英声音的洋葱头大人\nshe @JLMeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "JLMeing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLGbh5"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的葱葱头怎么被人装上了假齐刘海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 361,
+          "like_count": 32212,
+          "listed_count": 3,
+          "media_count": 763,
+          "tweet_count": 12201
+        },
+        "url": "https://t.co/puTamLGbh5",
+        "username": "jilianmeing",
+        "verified": false
+      }
+    ]
+  }
+}

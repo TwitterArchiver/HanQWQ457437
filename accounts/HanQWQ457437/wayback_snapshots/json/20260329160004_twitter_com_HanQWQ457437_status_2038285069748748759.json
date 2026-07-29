@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2022247194187972722",
+    "created_at": "2026-03-29T16:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038285069748748759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783810900555882496",
+          "start": 0,
+          "username": "MaybefL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038285069748748759",
+    "in_reply_to_user_id": "1783810900555882496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022247194187972722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaybefL8964 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2022247177331048449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB3F-zagAE1Jcd.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2022247177318461440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB3F-wacAASUn1.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2022247194187972722",
+        "created_at": "2026-03-29T16:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038285069748748759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783810900555882496",
+              "start": 0,
+              "username": "MaybefL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038285069748748759",
+        "in_reply_to_user_id": "1783810900555882496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022247194187972722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybefL8964 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022247177331048449",
+            "3_2022247177318461440"
+          ]
+        },
+        "author_id": "1783810900555882496",
+        "conversation_id": "2022247194187972722",
+        "created_at": "2026-02-13T09:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022247194187972722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQYt8eT8hz",
+              "end": 32,
+              "expanded_url": "https://x.com/MaybefL8964/status/2022247194187972722/photo/1",
+              "media_key": "3_2022247177331048449",
+              "start": 9,
+              "url": "https://t.co/mQYt8eT8hz"
+            },
+            {
+              "display_url": "pic.x.com/mQYt8eT8hz",
+              "end": 32,
+              "expanded_url": "https://x.com/MaybefL8964/status/2022247194187972722/photo/1",
+              "media_key": "3_2022247177318461440",
+              "start": 9,
+              "url": "https://t.co/mQYt8eT8hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022247194187972722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两张单独发一次 https://t.co/mQYt8eT8hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 961,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 388
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:50:54.000Z",
+        "description": "我是以前的dunk~^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaybefL8965",
+                "end": 23,
+                "expanded_url": "http://t.me/MaybefL8965",
+                "start": 0,
+                "url": "https://t.co/I2l7c4CBgJ"
+              }
+            ]
+          }
+        },
+        "id": "1783810900555882496",
+        "name": "au revoir4227^ ^",
+        "pinned_tweet_id": "1957778396156395565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021881579124232192/Pg7308E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 109,
+          "like_count": 11241,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/I2l7c4CBgJ",
+        "username": "MaybefL8964",
+        "verified": true
+      }
+    ]
+  }
+}

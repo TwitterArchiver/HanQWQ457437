@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2059536289758932992"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2059536336084955378",
+    "created_at": "2026-05-27T07:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059536336084955378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QvCrcasIAb",
+          "end": 132,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2059536336084955378/video/1",
+          "media_key": "7_2059536289758932992",
+          "start": 109,
+          "url": "https://t.co/QvCrcasIAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059536336084955378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小咬派生霹雳无敌小咬我😃，霹雳无敌小咬派生无敌霹雳小咬🤔，无敌霹雳小咬派生无霹敌雳小咬😨，霹敌雳小咬派生咬小😱，咬小派生小咬😰，小咬派生霹雳无敌小咬😭 ，霹雳无敌小咬派生无敌霹雳小咬😠，无敌霹雳小咬派生无霹敌雳小咬😇 https://t.co/QvCrcasIAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33766,
+        "height": 720,
+        "media_key": "7_2059536289758932992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059536289758932992/pu/img/mylyFVtGpvMDqWWz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059536289758932992/pu/vid/avc1/480x270/_rLNHWvzZqIrKYzr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059536289758932992/pu/vid/avc1/640x360/GVByVYRcve91wJfL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059536289758932992/pu/vid/avc1/1280x720/bvdcS_shn-V61xqS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059536289758932992/pu/pl/v5vGf2eEOYyL_B72.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059536289758932992"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2059536336084955378",
+        "created_at": "2026-05-27T07:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059536336084955378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvCrcasIAb",
+              "end": 132,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2059536336084955378/video/1",
+              "media_key": "7_2059536289758932992",
+              "start": 109,
+              "url": "https://t.co/QvCrcasIAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059536336084955378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小咬派生霹雳无敌小咬我😃，霹雳无敌小咬派生无敌霹雳小咬🤔，无敌霹雳小咬派生无霹敌雳小咬😨，霹敌雳小咬派生咬小😱，咬小派生小咬😰，小咬派生霹雳无敌小咬😭 ，霹雳无敌小咬派生无敌霹雳小咬😠，无敌霹雳小咬派生无霹敌雳小咬😇 https://t.co/QvCrcasIAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1054,
+          "like_count": 2719,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 782
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

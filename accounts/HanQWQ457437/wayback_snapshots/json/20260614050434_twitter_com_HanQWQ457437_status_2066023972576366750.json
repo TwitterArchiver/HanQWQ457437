@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2061151336545083493",
+    "created_at": "2026-06-14T05:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066023972576366750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838678304624381954",
+          "start": 0,
+          "username": "Rain_nyaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066023972576366750",
+    "in_reply_to_user_id": "1838678304624381954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061151336545083493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_nyaOvO 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_2061151333294501891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJquN5lXcAMwtgP.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2061151336545083493",
+        "created_at": "2026-06-14T05:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066023972576366750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838678304624381954",
+              "start": 0,
+              "username": "Rain_nyaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066023972576366750",
+        "in_reply_to_user_id": "1838678304624381954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061151336545083493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_nyaOvO 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061151333294501891"
+          ]
+        },
+        "author_id": "1838678304624381954",
+        "conversation_id": "2061151336545083493",
+        "created_at": "2026-05-31T18:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061151336545083493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "药娘"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "mtf"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0f9u9ZyVX",
+              "end": 84,
+              "expanded_url": "https://x.com/Rain061024/status/2061151336545083493/photo/1",
+              "media_key": "3_2061151333294501891",
+              "start": 61,
+              "url": "https://t.co/t0f9u9ZyVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061151336545083493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3934,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大概是……儿童节礼物～？₍⑅ᐢ..ᐢ₎那我的儿童节礼物是什么……OvO #男娘 #伪娘 #药娘 #mtf #可爱的男孩子 https://t.co/t0f9u9ZyVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1033,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 865
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T20:34:17.000Z",
+        "description": "这里是饼干～！来自焦糖星~正在努力学会与人类相处......身矮160cm/体轻40kg～嘴巴很笨不会说话，想和人类交朋友......！重度社恐INFP，喜欢一切可爱的事物～☆🚪49.9",
+        "id": "1838678304624381954",
+        "name": "雨怜Rain🍥",
+        "pinned_tweet_id": "2048733076537114768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940349883128422400/p491fd2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 113
+        },
+        "username": "Rain_nyaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

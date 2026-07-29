@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053629018663190645",
+    "created_at": "2026-05-11T03:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053680399482839299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966022890287149060",
+          "start": 0,
+          "username": "7kever96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053680399482839299",
+    "in_reply_to_user_id": "1966022890287149060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053629018663190645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7kever96 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053629010115203072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_0tEBakAAPea9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053629018663190645",
+        "created_at": "2026-05-11T03:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053680399482839299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966022890287149060",
+              "start": 0,
+              "username": "7kever96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053680399482839299",
+        "in_reply_to_user_id": "1966022890287149060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053629018663190645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7kever96 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053629010115203072"
+          ]
+        },
+        "author_id": "1966022890287149060",
+        "conversation_id": "2053629018663190645",
+        "created_at": "2026-05-11T00:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053629018663190645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KlJf8Xkyd",
+              "end": 23,
+              "expanded_url": "https://x.com/7kever96/status/2053629018663190645/photo/1",
+              "media_key": "3_2053629010115203072",
+              "start": 0,
+              "url": "https://t.co/2KlJf8Xkyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053629018663190645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2KlJf8Xkyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1622,
+          "like_count": 2409,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 674
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-11T06:16:16.000Z",
+        "description": "i found you",
+        "id": "1966022890287149060",
+        "name": "克克煙",
+        "pinned_tweet_id": "2037484400892613056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037337921645367296/NeNs3Pbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 34,
+          "like_count": 72,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 47
+        },
+        "username": "7kever96",
+        "verified": false
+      }
+    ]
+  }
+}

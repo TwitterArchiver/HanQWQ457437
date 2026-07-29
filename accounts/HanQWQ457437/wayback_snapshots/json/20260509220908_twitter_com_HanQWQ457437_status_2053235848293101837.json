@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053226180367749352",
+    "created_at": "2026-05-09T22:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053235848293101837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044140394108334082",
+          "start": 0,
+          "username": "hualiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053235848293101837",
+    "in_reply_to_user_id": "2044140394108334082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053226180367749352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hualiovo 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2053226173535277056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6GU40a0AAiifV.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053226180367749352",
+        "created_at": "2026-05-09T22:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053235848293101837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044140394108334082",
+              "start": 0,
+              "username": "hualiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053235848293101837",
+        "in_reply_to_user_id": "2044140394108334082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053226180367749352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hualiovo 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053226173535277056"
+          ]
+        },
+        "author_id": "2044140394108334082",
+        "conversation_id": "2053226180367749352",
+        "created_at": "2026-05-09T21:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053226180367749352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZdlKhVpds",
+              "end": 37,
+              "expanded_url": "https://x.com/hualiovo/status/2053226180367749352/photo/1",
+              "media_key": "3_2053226173535277056",
+              "start": 14,
+              "url": "https://t.co/kZdlKhVpds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053226180367749352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张也加上（）这下是真睡了 https://t.co/kZdlKhVpds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1685,
+          "like_count": 2291,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 634
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "扩列（目前只加Q）暂时只扩同好望理解，感谢关注，感谢喜欢喵。\n之前叫花梨qwq和hualiqwq全网同名",
+        "id": "2044140394108334082",
+        "name": "相似蛋糕拆开🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044141371435692032/4OvCQC1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 39,
+          "like_count": 8,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 36
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

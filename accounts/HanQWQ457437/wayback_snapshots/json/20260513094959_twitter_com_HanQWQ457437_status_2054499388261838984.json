@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2046784928495641023",
+    "created_at": "2026-05-13T09:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054499388261838984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642466383832449024",
+          "start": 0,
+          "username": "Rei01_Shimizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054499388261838984",
+    "in_reply_to_user_id": "1642466383832449024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046784928495641023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei01_Shimizu 可以可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2046784916067938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGekCW3bcAAnBJG.jpg",
+        "width": 1823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2046784928495641023",
+        "created_at": "2026-05-13T09:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054499388261838984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642466383832449024",
+              "start": 0,
+              "username": "Rei01_Shimizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054499388261838984",
+        "in_reply_to_user_id": "1642466383832449024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046784928495641023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei01_Shimizu 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046784916067938304"
+          ]
+        },
+        "author_id": "1642466383832449024",
+        "conversation_id": "2046784928495641023",
+        "created_at": "2026-04-22T02:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046784928495641023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnV1OUcL1z",
+              "end": 32,
+              "expanded_url": "https://x.com/Rei01_Shimizu/status/2046784928495641023/photo/1",
+              "media_key": "3_2046784916067938304",
+              "start": 9,
+              "url": "https://t.co/CnV1OUcL1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046784928495641023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 121,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这个眼妆ww https://t.co/CnV1OUcL1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2054129295426191390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 964,
+          "like_count": 2525,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 701
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T09:58:07.000Z",
+        "description": "爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我",
+        "id": "1642466383832449024",
+        "location": "地球",
+        "name": "レイイイイイイイイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054260051003785216/BojDu-fF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "Rei01_Shimizu",
+        "verified": false
+      }
+    ]
+  }
+}

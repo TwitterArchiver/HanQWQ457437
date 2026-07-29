@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052821664753385735",
+    "created_at": "2026-05-09T05:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052987933578473493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052987933578473493",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052821664753385735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA0 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3766,
+        "height": 720,
+        "media_key": "13_2052821606058315776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052821606058315776/img/7S1bReG0hqJrdgT_.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052821606058315776/vid/avc1/480x270/Pkdty4CX7H76w6PU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052821606058315776/vid/avc1/640x360/BP0fbcKuShXA2qzt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052821606058315776/vid/avc1/1280x720/k98R44jnI-T2qx7K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052821606058315776/pl/Ruciwp2TJcGc7we6.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052821606062583808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0WX9ibcAApktz.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052821664753385735",
+        "created_at": "2026-05-09T05:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052987933578473493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052987933578473493",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052821664753385735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA0 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052821606058315776",
+            "3_2052821606062583808"
+          ]
+        },
+        "author_id": "1354545024046821376",
+        "conversation_id": "2052821664753385735",
+        "created_at": "2026-05-08T18:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052821664753385735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IfpFoda69",
+              "end": 31,
+              "expanded_url": "https://x.com/KURANAGA0/status/2052821664753385735/video/1",
+              "media_key": "13_2052821606058315776",
+              "start": 8,
+              "url": "https://t.co/8IfpFoda69"
+            },
+            {
+              "display_url": "pic.x.com/8IfpFoda69",
+              "end": 31,
+              "expanded_url": "https://x.com/KURANAGA0/status/2052821664753385735/video/1",
+              "media_key": "3_2052821606062583808",
+              "start": 8,
+              "url": "https://t.co/8IfpFoda69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052821664753385735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下了班我就这样 https://t.co/8IfpFoda69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1508,
+          "like_count": 2211,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 590
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "I 别名 甜甜怜怜子I 天生吾族 岂可轻弃",
+        "id": "1354545024046821376",
+        "location": "回血阵",
+        "name": "三原怜🍥",
+        "pinned_tweet_id": "2052723779957301735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006116554845671424/Ni1Sr3p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 768,
+          "like_count": 7568,
+          "listed_count": 4,
+          "media_count": 1068,
+          "tweet_count": 8299
+        },
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

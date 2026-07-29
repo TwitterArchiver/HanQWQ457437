@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037930897216045230",
+    "created_at": "2026-03-28T18:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037956883768832309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987074621280260096",
+          "start": 0,
+          "username": "LillaVirts23519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037956883768832309",
+    "in_reply_to_user_id": "1987074621280260096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037930897216045230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LillaVirts23519 🥲🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2037930890656194560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgvWP5boAAkv0q.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037930897216045230",
+        "created_at": "2026-03-28T18:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037956883768832309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987074621280260096",
+              "start": 0,
+              "username": "LillaVirts23519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037956883768832309",
+        "in_reply_to_user_id": "1987074621280260096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037930897216045230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LillaVirts23519 🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037930890656194560"
+          ]
+        },
+        "author_id": "1987074621280260096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2037930897216045230",
+        "created_at": "2026-03-28T16:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037930897216045230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/sVVA0yoXdy"
+            },
+            {
+              "display_url": "pic.x.com/kc1dgnp4s5",
+              "end": 64,
+              "expanded_url": "https://x.com/LillaVirts23519/status/2037930897216045230/photo/1",
+              "media_key": "3_2037930890656194560",
+              "start": 41,
+              "url": "https://t.co/kc1dgnp4s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037930897216045230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/sVVA0yoXdy https://t.co/kc1dgnp4s5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 910,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 345
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "二棒｜泛性恋｜161/42减肥中｜互fo请私会查成分 \n不要私信/评论问我ip等信息会拉黑\n喜欢有礼貌的",
+        "id": "1987074621280260096",
+        "location": "艾尔迪亚",
+        "name": "00",
+        "pinned_tweet_id": "2036840390612127899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 241,
+          "like_count": 7097,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1714
+        },
+        "username": "LillaVirts23519",
+        "verified": false
+      }
+    ]
+  }
+}

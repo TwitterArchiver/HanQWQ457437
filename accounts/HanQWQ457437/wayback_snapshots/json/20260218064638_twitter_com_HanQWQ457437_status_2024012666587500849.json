@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024012646949978112",
+        "3_2024012652851425280",
+        "3_2024012658371162116",
+        "3_2024012664540925952"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2024012666587500849",
+    "created_at": "2026-02-18T06:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024012666587500849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYrc10AeNS",
+          "end": 29,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+          "media_key": "3_2024012646949978112",
+          "start": 6,
+          "url": "https://t.co/NYrc10AeNS"
+        },
+        {
+          "display_url": "pic.x.com/NYrc10AeNS",
+          "end": 29,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+          "media_key": "3_2024012652851425280",
+          "start": 6,
+          "url": "https://t.co/NYrc10AeNS"
+        },
+        {
+          "display_url": "pic.x.com/NYrc10AeNS",
+          "end": 29,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+          "media_key": "3_2024012658371162116",
+          "start": 6,
+          "url": "https://t.co/NYrc10AeNS"
+        },
+        {
+          "display_url": "pic.x.com/NYrc10AeNS",
+          "end": 29,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+          "media_key": "3_2024012664540925952",
+          "start": 6,
+          "url": "https://t.co/NYrc10AeNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024012666587500849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冲刺冲刺冲 https://t.co/NYrc10AeNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024012646949978112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa8x1paAAAbtKa.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024012652851425280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa8yLoa8AAGliw.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024012658371162116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa8ygMbcAQMois.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2024012664540925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa8y3LakAAKQLu.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024012646949978112",
+            "3_2024012652851425280",
+            "3_2024012658371162116",
+            "3_2024012664540925952"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2024012666587500849",
+        "created_at": "2026-02-18T06:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024012666587500849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYrc10AeNS",
+              "end": 29,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+              "media_key": "3_2024012646949978112",
+              "start": 6,
+              "url": "https://t.co/NYrc10AeNS"
+            },
+            {
+              "display_url": "pic.x.com/NYrc10AeNS",
+              "end": 29,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+              "media_key": "3_2024012652851425280",
+              "start": 6,
+              "url": "https://t.co/NYrc10AeNS"
+            },
+            {
+              "display_url": "pic.x.com/NYrc10AeNS",
+              "end": 29,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+              "media_key": "3_2024012658371162116",
+              "start": 6,
+              "url": "https://t.co/NYrc10AeNS"
+            },
+            {
+              "display_url": "pic.x.com/NYrc10AeNS",
+              "end": 29,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2024012666587500849/photo/1",
+              "media_key": "3_2024012664540925952",
+              "start": 6,
+              "url": "https://t.co/NYrc10AeNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024012666587500849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲刺冲刺冲 https://t.co/NYrc10AeNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "👁️👁️👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018926758679171073/EFUZ-tHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 104,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

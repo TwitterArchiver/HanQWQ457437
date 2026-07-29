@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052755826063073557",
+    "created_at": "2026-05-08T22:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052880491679035724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052880491679035724",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052755826063073557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 啊哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052755791716003840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzahD_bsAAM9lS.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052755826063073557",
+        "created_at": "2026-05-08T22:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052880491679035724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052880491679035724",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052755826063073557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 啊哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052755791716003840"
+          ]
+        },
+        "author_id": "1776627287934537728",
+        "conversation_id": "2052755826063073557",
+        "created_at": "2026-05-08T14:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052755826063073557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXYgqYr5eb",
+              "end": 42,
+              "expanded_url": "https://x.com/NaiJin66998/status/2052755826063073557/photo/1",
+              "media_key": "3_2052755791716003840",
+              "start": 19,
+              "url": "https://t.co/wXYgqYr5eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052755826063073557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我亲爸爸。又莫名其妙给我转账！哼 https://t.co/wXYgqYr5eb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1480,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 551
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "喜欢看你痛不欲生的样子\n养了只小猫叫あめ。\n肉便器 @ovocaize 防丢失@Rain7x6y\n来找我聊天好不好🥺匿名👇🏻我好孤独",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ovocaize"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "Rain7x6y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r%E2%80%86ai%E…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/r%E2%80%86ai%E2%80%86n",
+                "start": 0,
+                "url": "https://t.co/4R0uvNVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 261,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/4R0uvNVXCL",
+        "username": "NaiJin66998",
+        "verified": false
+      }
+    ]
+  }
+}

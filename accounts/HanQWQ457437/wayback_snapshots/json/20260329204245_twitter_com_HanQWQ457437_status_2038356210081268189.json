@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038356178686906368"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2038356210081268189",
+    "created_at": "2026-03-29T20:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038356210081268189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KT1asZLcKZ",
+          "end": 32,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2038356210081268189/video/1",
+          "media_key": "7_2038356178686906368",
+          "start": 9,
+          "url": "https://t.co/KT1asZLcKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038356210081268189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的忧郁德国朋友 https://t.co/KT1asZLcKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5165,
+        "height": 1280,
+        "media_key": "7_2038356178686906368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038356178686906368/pu/img/SLfndXIbB_rCEfuT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/320x568/1qbswIKWvKPDDuDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/480x852/JIV1b2iDD71I8HQj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/720x1280/lACrcLbvGC2jlt83.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/pl/ta9NKlWTOCSmZlSJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038356178686906368"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038356210081268189",
+        "created_at": "2026-03-29T20:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038356210081268189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KT1asZLcKZ",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2038356210081268189/video/1",
+              "media_key": "7_2038356178686906368",
+              "start": 9,
+              "url": "https://t.co/KT1asZLcKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038356210081268189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的忧郁德国朋友 https://t.co/KT1asZLcKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038179851958706498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 966,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 404
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

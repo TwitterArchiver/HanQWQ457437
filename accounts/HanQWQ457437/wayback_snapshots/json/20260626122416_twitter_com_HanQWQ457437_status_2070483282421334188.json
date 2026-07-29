@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2070176178728739151",
+    "created_at": "2026-06-26T12:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070483282421334188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1525170191331577856",
+          "start": 0,
+          "username": "iyuirun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070483282421334188",
+    "in_reply_to_user_id": "1525170191331577856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070176178728739151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyuirun 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070176151935614977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq-Pe6bgAEEFk9.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2070176178728739151",
+        "created_at": "2026-06-26T12:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070483282421334188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1525170191331577856",
+              "start": 0,
+              "username": "iyuirun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070483282421334188",
+        "in_reply_to_user_id": "1525170191331577856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070176178728739151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyuirun 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070176151935614977"
+          ]
+        },
+        "author_id": "1525170191331577856",
+        "conversation_id": "2070176178728739151",
+        "created_at": "2026-06-25T16:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070176178728739151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6FXNf5Vb6",
+              "end": 166,
+              "expanded_url": "https://x.com/iyuirun/status/2070176178728739151/photo/1",
+              "media_key": "3_2070176151935614977",
+              "start": 143,
+              "url": "https://t.co/r6FXNf5Vb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070176178728739151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6806,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "雨勼，我怀孕了\n雨勼，握住未来吧雨勼\n雨勼，对他使用炎拳吧\n雨勼，老实回家做宅男\n雨勼，当诡异复苏，世人呼唤你名字的时候，你将显化于世\n雨勼，我看到了你眼中藏着的狮子\n雨勼，斗之气三段……\n雨勼，哭泣是保护不了任何人的\n雨勼，你将看到飞升之力\n雨勼，我知道你是渣男，但是能渣我一回吗😭 https://t.co/r6FXNf5Vb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1144,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-13T17:44:54.000Z",
+        "description": "别",
+        "id": "1525170191331577856",
+        "name": "雨勼大王",
+        "pinned_tweet_id": "1955941602276540563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066545548543533056/0jzs6Vpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17992,
+          "following_count": 318,
+          "like_count": 3484,
+          "listed_count": 63,
+          "media_count": 14,
+          "tweet_count": 3355
+        },
+        "url": "",
+        "username": "iyuirun",
+        "verified": false
+      }
+    ]
+  }
+}

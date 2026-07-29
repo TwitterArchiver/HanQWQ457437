@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037197789000769737",
+    "created_at": "2026-03-26T22:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T23:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037295328789950522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037295328789950522",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037197789000769737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodmeiii 可爱❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10166,
+        "height": 1280,
+        "media_key": "13_2037197716363894787",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037197716363894787/img/M2MEPQ1r60A2Oa0O.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037197716363894787/vid/avc1/320x568/rv7PeepP_bgPQsd7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037197716363894787/vid/avc1/480x852/7f8lW_0tuz_QNwH8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037197716363894787/vid/avc1/720x1280/35P11iqqwGm0N-Xq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037197716363894787/pl/iodIyx1ylVH7fqY-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037197789000769737",
+        "created_at": "2026-03-26T22:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037295328789950522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037295328789950522",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037197789000769737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodmeiii 可爱❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037197716363894787"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "conversation_id": "2037197789000769737",
+        "created_at": "2026-03-26T15:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037197789000769737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FjvCQiUnN",
+              "end": 35,
+              "expanded_url": "https://x.com/bloodmeiii/status/2037197789000769737/video/1",
+              "media_key": "13_2037197716363894787",
+              "start": 12,
+              "url": "https://t.co/0FjvCQiUnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037197789000769737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄毛袭来(^_−)−☆ https://t.co/0FjvCQiUnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032019125917401089/hCOxWkfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 842,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 230
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓mei\n07｜休学中重抑中焦神经性贪食\n我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2037163582715318503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 374,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1322
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

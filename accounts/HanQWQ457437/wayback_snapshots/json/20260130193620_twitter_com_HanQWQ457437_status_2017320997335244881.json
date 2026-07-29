@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017320991597432833",
+        "3_2017320995355541504"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2017320997335244881",
+    "created_at": "2026-01-30T19:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T20:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017320997335244881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Sm5Aa7fdf",
+          "end": 32,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2017320997335244881/photo/1",
+          "media_key": "3_2017320991597432833",
+          "start": 9,
+          "url": "https://t.co/4Sm5Aa7fdf"
+        },
+        {
+          "display_url": "pic.x.com/4Sm5Aa7fdf",
+          "end": 32,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2017320997335244881/photo/1",
+          "media_key": "3_2017320995355541504",
+          "start": 9,
+          "url": "https://t.co/4Sm5Aa7fdf"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0b039ce18ddf1cb9"
+    },
+    "id": "2017320997335244881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，有没有懂的 https://t.co/4Sm5Aa7fdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_2017320991597432833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_72wO4akAEpruF.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2070,
+        "media_key": "3_2017320995355541504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_72wc4awAAi3JC.jpg",
+        "width": 1217
+      }
+    ],
+    "places": [
+      {
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "New Zealand",
+        "geo": {
+          "bbox": [
+            -178.5868389,
+            -52.6291128,
+            179.1144116,
+            -29.230756
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "0b039ce18ddf1cb9",
+        "name": "New Zealand",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017320991597432833",
+            "3_2017320995355541504"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2017320997335244881",
+        "created_at": "2026-01-30T19:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017320997335244881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Sm5Aa7fdf",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2017320997335244881/photo/1",
+              "media_key": "3_2017320991597432833",
+              "start": 9,
+              "url": "https://t.co/4Sm5Aa7fdf"
+            },
+            {
+              "display_url": "pic.x.com/4Sm5Aa7fdf",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2017320997335244881/photo/1",
+              "media_key": "3_2017320995355541504",
+              "start": 9,
+              "url": "https://t.co/4Sm5Aa7fdf"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0b039ce18ddf1cb9"
+        },
+        "id": "2017320997335244881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，有没有懂的 https://t.co/4Sm5Aa7fdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "New Zealand",
+        "name": "tomoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975360984513654784/1-3OorTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

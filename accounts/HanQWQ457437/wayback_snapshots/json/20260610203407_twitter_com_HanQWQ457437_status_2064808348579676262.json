@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2040725776899944528",
+    "created_at": "2026-06-10T20:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064808348579676262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1895315832030535682",
+          "start": 0,
+          "username": "_q79ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064808348579676262",
+    "in_reply_to_user_id": "1895315832030535682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040725776899944528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_q79ir 大姐姐🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040725771267026944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIdRthbMAAGvnC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2040725776899944528",
+        "created_at": "2026-06-10T20:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064808348579676262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1895315832030535682",
+              "start": 0,
+              "username": "_q79ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064808348579676262",
+        "in_reply_to_user_id": "1895315832030535682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040725776899944528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_q79ir 大姐姐🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040725771267026944"
+          ]
+        },
+        "author_id": "1895315832030535682",
+        "conversation_id": "2040725776899944528",
+        "created_at": "2026-04-05T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040725776899944528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/noXwkzet7Q",
+              "end": 31,
+              "expanded_url": "https://x.com/_q79ir/status/2040725776899944528/photo/1",
+              "media_key": "3_2040725771267026944",
+              "start": 8,
+              "url": "https://t.co/noXwkzet7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040725776899944528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 19191,
+          "like_count": 1455,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "先生に髪みせた https://t.co/noXwkzet7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1042,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 823
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T03:31:31.000Z",
+        "description": "デスノートの松田とポムポムプリンが好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@_q7.9ir?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@_q7.9ir?_r=1&_t=ZS-9766CWaJUj2",
+                "start": 0,
+                "url": "https://t.co/rh6GL8Q5QK"
+              }
+            ]
+          }
+        },
+        "id": "1895315832030535682",
+        "location": "東京",
+        "name": "0",
+        "pinned_tweet_id": "2040725776899944528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987219543832616960/1UbC5pHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 233,
+          "like_count": 45813,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/rh6GL8Q5QK",
+        "username": "_q79ir",
+        "verified": false
+      }
+    ]
+  }
+}

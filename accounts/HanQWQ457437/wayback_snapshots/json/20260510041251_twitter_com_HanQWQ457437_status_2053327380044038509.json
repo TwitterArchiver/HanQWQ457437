@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053305107580964951",
+    "created_at": "2026-05-10T04:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053327380044038509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053327380044038509",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053305107580964951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Tsuimei 一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2053305103051038721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7OHMLaoAEdsx0.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053305107580964951",
+        "created_at": "2026-05-10T04:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053327380044038509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053327380044038509",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053305107580964951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Tsuimei 一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053305103051038721"
+          ]
+        },
+        "author_id": "1759598042704207872",
+        "conversation_id": "2053305107580964951",
+        "created_at": "2026-05-10T02:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053305107580964951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Da9rw7zTPE",
+              "end": 47,
+              "expanded_url": "https://x.com/Oyama_Tsuimei/status/2053305107580964951/photo/1",
+              "media_key": "3_2053305103051038721",
+              "start": 24,
+              "url": "https://t.co/Da9rw7zTPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053305107580964951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克我的蓝勾怎么开了和没开一样啊\n我的流量呢 https://t.co/Da9rw7zTPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1633,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 649
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\n也许不是人类\n没有米线，不吃压力\n可以叫我坠明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "旅行者的苍白之心",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036032927172280320/YJ3zUoFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1147,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 3536
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2061839511299174563",
+    "created_at": "2026-06-08T10:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063926510499901879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063926510499901879",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061839511299174563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4086,
+        "media_key": "3_2061839505464885248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0gGysaAAAs11G.jpg",
+        "width": 2685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2061839511299174563",
+        "created_at": "2026-06-08T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063926510499901879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063926510499901879",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061839511299174563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061839505464885248"
+          ]
+        },
+        "author_id": "1775411944692051968",
+        "conversation_id": "2061839511299174563",
+        "created_at": "2026-06-02T15:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061839511299174563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqz75eJHcR",
+              "end": 44,
+              "expanded_url": "https://x.com/MagicalHat999/status/2061839511299174563/photo/1",
+              "media_key": "3_2061839505464885248",
+              "start": 21,
+              "url": "https://t.co/tqz75eJHcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061839511299174563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 44835,
+          "like_count": 1257,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "恋足癖就这样被我牵到操场上去遛够100圈 https://t.co/tqz75eJHcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1029,
+          "like_count": 2816,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 806
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 55,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 32,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 1858,
+          "like_count": 10144,
+          "listed_count": 17,
+          "media_count": 167,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      }
+    ]
+  }
+}

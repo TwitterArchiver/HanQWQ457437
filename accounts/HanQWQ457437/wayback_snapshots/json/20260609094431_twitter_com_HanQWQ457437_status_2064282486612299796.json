@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2063608539323748531",
+    "created_at": "2026-06-09T09:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064282486612299796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049837033191837696",
+          "start": 0,
+          "username": "misak101108"
+        },
+        {
+          "end": 26,
+          "id": "2048048468938428416",
+          "start": 13,
+          "username": "kjjfkxq4vw50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064282486612299796",
+    "in_reply_to_user_id": "2049837033191837696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063657499782443376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misak101108 @kjjfkxq4vw50 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2063608539323748531",
+        "created_at": "2026-06-09T09:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064282486612299796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049837033191837696",
+              "start": 0,
+              "username": "misak101108"
+            },
+            {
+              "end": 26,
+              "id": "2048048468938428416",
+              "start": 13,
+              "username": "kjjfkxq4vw50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064282486612299796",
+        "in_reply_to_user_id": "2049837033191837696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063657499782443376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misak101108 @kjjfkxq4vw50 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049837033191837696",
+        "conversation_id": "2063608539323748531",
+        "created_at": "2026-06-07T16:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063657499782443376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048048468938428416",
+              "start": 0,
+              "username": "kjjfkxq4vw50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063657499782443376",
+        "in_reply_to_user_id": "2048048468938428416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063656477299241068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjjfkxq4vw50 他射不出来。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1029,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 810
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T13:03:37.000Z",
+        "description": "",
+        "id": "2049837033191837696",
+        "name": "y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063625379647287296/-aQXZQE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 18,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 344
+        },
+        "username": "misak101108",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:36:37.000Z",
+        "description": "疯狂星期四V我50",
+        "id": "2048048468938428416",
+        "name": "kjjfkxq4vw50",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059563597437845504/MXmIHkrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 106
+        },
+        "username": "kjjfkxq4vw50",
+        "verified": false
+      }
+    ]
+  }
+}

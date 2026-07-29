@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2063276196755095849",
+    "created_at": "2026-06-10T20:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064807523123957949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1691734207750713344",
+          "start": 0,
+          "username": "sn_ao__"
+        },
+        {
+          "end": 11,
+          "id": "18899974",
+          "start": 9,
+          "username": "1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064807523123957949",
+    "in_reply_to_user_id": "1691734207750713344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063276196755095849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sn_ao__ @1 萌萌"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [1].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "1",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2063276196755095849",
+        "created_at": "2026-06-10T20:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064807523123957949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1691734207750713344",
+              "start": 0,
+              "username": "sn_ao__"
+            },
+            {
+              "end": 11,
+              "id": "18899974",
+              "start": 9,
+              "username": "1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064807523123957949",
+        "in_reply_to_user_id": "1691734207750713344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063276196755095849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sn_ao__ @1 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691734207750713344",
+        "conversation_id": "2063276196755095849",
+        "created_at": "2026-06-06T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063276196755095849"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 2,
+              "id": "18899974",
+              "start": 0,
+              "username": "1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sn_ao__/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sn_ao__/status/2062535153768136879",
+              "start": 10,
+              "url": "https://t.co/vFONSuqgQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063276196755095849",
+        "in_reply_to_user_id": "18899974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535153768136879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1 #自撮り界隈 https://t.co/vFONSuqgQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2062126054656143543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1042,
+          "like_count": 2876,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 820
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-16T08:50:47.000Z",
+        "description": "TikTok sn_ao_",
+        "id": "1691734207750713344",
+        "name": "佐野",
+        "pinned_tweet_id": "2009273682183540747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048790160901582848/DMzbNtKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 34,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "username": "sn_ao__",
+        "verified": false
+      }
+    ]
+  }
+}

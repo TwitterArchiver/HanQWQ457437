@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2048200726585966626",
+    "created_at": "2026-05-10T04:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053326656849457572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1299892996880494593",
+          "start": 0,
+          "username": "Achansuki233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053326656849457572",
+    "in_reply_to_user_id": "1299892996880494593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048200726585966626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Achansuki233 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2048200713583640576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyrsnnawAAKW6i.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2048200726585966626",
+        "created_at": "2026-05-10T04:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053326656849457572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1299892996880494593",
+              "start": 0,
+              "username": "Achansuki233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053326656849457572",
+        "in_reply_to_user_id": "1299892996880494593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048200726585966626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Achansuki233 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048200713583640576"
+          ]
+        },
+        "author_id": "1299892996880494593",
+        "conversation_id": "2048200726585966626",
+        "created_at": "2026-04-26T00:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048200726585966626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9taWuTSuHS",
+              "end": 29,
+              "expanded_url": "https://x.com/Achansuki233/status/2048200726585966626/photo/1",
+              "media_key": "3_2048200713583640576",
+              "start": 6,
+              "url": "https://t.co/9taWuTSuHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048200726585966626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5774,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不是好女孩 https://t.co/9taWuTSuHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1635,
+          "like_count": 2321,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 647
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-30T02:13:42.000Z",
+        "description": "先天限流圣体。\n小可爱可以私信互fo哦\n冷清小群：850067748\n此号正常使用，不要相信高仿号",
+        "id": "1299892996880494593",
+        "location": "安徽",
+        "name": "A酱很难不suki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645027189971382273/pNSviN9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7822,
+          "following_count": 1087,
+          "like_count": 252,
+          "listed_count": 39,
+          "media_count": 221,
+          "tweet_count": 525
+        },
+        "username": "Achansuki233",
+        "verified": true
+      }
+    ]
+  }
+}

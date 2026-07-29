@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2036974035645436122",
+    "created_at": "2026-03-26T01:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036974035645436122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Numiouo/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Numiouo/status/2036648687083176033",
+          "start": 3,
+          "url": "https://t.co/7KHObAFi9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036974035645436122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036648687083176033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 https://t.co/7KHObAFi9K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2036974035645436122",
+        "created_at": "2026-03-26T01:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036974035645436122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouo/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Numiouo/status/2036648687083176033",
+              "start": 3,
+              "url": "https://t.co/7KHObAFi9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036974035645436122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036648687083176033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/7KHObAFi9K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2036648687083176033",
+        "created_at": "2026-03-25T03:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036648687083176033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036648687083176033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1943,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次磕痿了以后加生理期让我更加萎，直到昨晚才突然有了感觉，十几天的禁欲让我高潮的时候体验到了吸毒一样的快感\n\n好爽，我无法形容那十几秒钟的爽感，我躺在床上扭曲溃散尖叫，满脑子一片纯白，纯粹的爽没有任何杂质，极其强烈，像是被万万年以前的恒星飞速砸中，省去了头破血流的过程直接湮灭飞升"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032019125917401089/hCOxWkfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 295,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 207
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 2128,
+          "like_count": 8765,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 7228
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037742189036388528",
+    "created_at": "2026-03-28T11:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037850037448032489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "yotamadkilla"
+        },
+        {
+          "end": 26,
+          "id": "2032033299980566528",
+          "start": 14,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037850037448032489",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037742189036388528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yotamadkilla @rinii165892 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037742189036388528",
+        "created_at": "2026-03-28T11:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037850037448032489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "yotamadkilla"
+            },
+            {
+              "end": 26,
+              "id": "2032033299980566528",
+              "start": 14,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037850037448032489",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037742189036388528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yotamadkilla @rinii165892 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2037742189036388528",
+        "created_at": "2026-03-28T04:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037742189036388528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037742189036388528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我很害怕那种主页只有磕药的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 906,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 333
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2036975040575468010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 464,
+          "like_count": 35128,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 11181
+        },
+        "username": "yotamadkilla",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】\n性别是末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/喹硫平我爱人/od/sh 全否定\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（AAA.喹硫平批发）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 259,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

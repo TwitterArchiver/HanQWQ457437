@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2070049568235172314",
+    "created_at": "2026-06-26T12:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070483730444201991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070483730444201991",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070049568235172314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2856,
+        "media_key": "3_2070049406976708608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpK99Ja0AAue1y.jpg",
+        "width": 3436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2070049568235172314",
+        "created_at": "2026-06-26T12:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070483730444201991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070483730444201991",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070049568235172314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070049406976708608"
+          ]
+        },
+        "author_id": "1874735511031693312",
+        "conversation_id": "2070049568235172314",
+        "created_at": "2026-06-25T07:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070049568235172314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JM9MLImOa4",
+              "end": 79,
+              "expanded_url": "https://x.com/bittersweet_ref/status/2070049568235172314/photo/1",
+              "media_key": "3_2070049406976708608",
+              "start": 56,
+              "url": "https://t.co/JM9MLImOa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070049568235172314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 17241,
+          "like_count": 948,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "打Apex认了个妈妈，她跟我说让妈妈骄傲吧，还有什么驱散器，检查完毕；稳定器，检查完毕；好伙伴...检查完毕。 https://t.co/JM9MLImOa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1144,
+          "like_count": 3229,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35363,
+          "following_count": 80,
+          "like_count": 6679,
+          "listed_count": 121,
+          "media_count": 250,
+          "tweet_count": 1648
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true
+      }
+    ]
+  }
+}

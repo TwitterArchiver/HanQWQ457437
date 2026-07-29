@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2050895380016177576",
+    "created_at": "2026-06-23T04:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069272970661634350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838177654916489216",
+          "start": 0,
+          "username": "JahsehW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069272970661634350",
+    "in_reply_to_user_id": "1838177654916489216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050895380016177576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JahsehW1 我想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050895367852666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY-eJBaMAA9krw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050895367848534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY-eJAbIAA9y-k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050895367844265984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY-eI_aAAAvbIV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050895367869440000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY-eJFaIAA6vAh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2050895380016177576",
+        "created_at": "2026-06-23T04:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069272970661634350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838177654916489216",
+              "start": 0,
+              "username": "JahsehW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069272970661634350",
+        "in_reply_to_user_id": "1838177654916489216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050895380016177576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JahsehW1 我想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050895367852666880",
+            "3_2050895367848534016",
+            "3_2050895367844265984",
+            "3_2050895367869440000"
+          ]
+        },
+        "author_id": "1838177654916489216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050895380016177576",
+        "created_at": "2026-05-03T11:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050895380016177576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU0rPkvB2I",
+              "end": 23,
+              "expanded_url": "https://x.com/JahsehW1/status/2050895380016177576/photo/1",
+              "media_key": "3_2050895367852666880",
+              "start": 0,
+              "url": "https://t.co/ZU0rPkvB2I"
+            },
+            {
+              "display_url": "pic.x.com/ZU0rPkvB2I",
+              "end": 23,
+              "expanded_url": "https://x.com/JahsehW1/status/2050895380016177576/photo/1",
+              "media_key": "3_2050895367848534016",
+              "start": 0,
+              "url": "https://t.co/ZU0rPkvB2I"
+            },
+            {
+              "display_url": "pic.x.com/ZU0rPkvB2I",
+              "end": 23,
+              "expanded_url": "https://x.com/JahsehW1/status/2050895380016177576/photo/1",
+              "media_key": "3_2050895367844265984",
+              "start": 0,
+              "url": "https://t.co/ZU0rPkvB2I"
+            },
+            {
+              "display_url": "pic.x.com/ZU0rPkvB2I",
+              "end": 23,
+              "expanded_url": "https://x.com/JahsehW1/status/2050895380016177576/photo/1",
+              "media_key": "3_2050895367869440000",
+              "start": 0,
+              "url": "https://t.co/ZU0rPkvB2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050895380016177576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZU0rPkvB2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1175,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-23T11:24:59.000Z",
+        "description": "我已经开始不正常了",
+        "id": "1838177654916489216",
+        "name": "三过先生（策划药）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838178790201245696/InA-jrXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 75,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "JahsehW1",
+        "verified": false
+      }
+    ]
+  }
+}

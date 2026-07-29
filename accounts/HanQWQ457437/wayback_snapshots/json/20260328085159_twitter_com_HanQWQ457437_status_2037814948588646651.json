@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2037580479629754792",
+    "created_at": "2026-03-28T08:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037814948588646651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037814948588646651",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037580479629754792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 钳无力😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_2037580477566275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbwphab0AAlZOl.jpg",
+        "width": 154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2037580479629754792",
+        "created_at": "2026-03-28T08:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037814948588646651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037814948588646651",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037580479629754792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 钳无力😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037580477566275584"
+          ]
+        },
+        "author_id": "1577359525606211605",
+        "conversation_id": "2037580479629754792",
+        "created_at": "2026-03-27T17:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037580479629754792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBVyvab1lL",
+              "end": 30,
+              "expanded_url": "https://x.com/R0astducker/status/2037580479629754792/photo/1",
+              "media_key": "3_2037580477566275584",
+              "start": 7,
+              "url": "https://t.co/aBVyvab1lL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037580479629754792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不赖兄弟不赖 https://t.co/aBVyvab1lL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2036699819918659697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037621908477460480/AOgGNNyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 897,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 323
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了🙏🏻",
+        "id": "1577359525606211605",
+        "name": "呆是本",
+        "pinned_tweet_id": "2030307196999975247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 531,
+          "like_count": 28630,
+          "listed_count": 2,
+          "media_count": 1187,
+          "tweet_count": 10654
+        },
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

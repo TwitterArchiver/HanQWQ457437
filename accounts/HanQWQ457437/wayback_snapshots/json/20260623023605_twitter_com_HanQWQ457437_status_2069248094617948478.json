@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2069232431111238103",
+    "created_at": "2026-06-23T02:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069248094617948478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1565011131965796354",
+          "start": 0,
+          "username": "kyai_poi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069248094617948478",
+    "in_reply_to_user_id": "1565011131965796354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069232431111238103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyai_poi 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069232403575627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdj6GTaYAArrfd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2069232431111238103",
+        "created_at": "2026-06-23T02:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069248094617948478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1565011131965796354",
+              "start": 0,
+              "username": "kyai_poi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069248094617948478",
+        "in_reply_to_user_id": "1565011131965796354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069232431111238103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyai_poi 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069232403575627776"
+          ]
+        },
+        "author_id": "1565011131965796354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2069232431111238103",
+        "created_at": "2026-06-23T01:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069232431111238103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "coser"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "pjsk"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "晓山瑞希"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "cos"
+            },
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "projectsekai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsGalkqRO0",
+              "end": 69,
+              "expanded_url": "https://x.com/kyai_poi/status/2069232431111238103/photo/1",
+              "media_key": "3_2069232403575627776",
+              "start": 46,
+              "url": "https://t.co/wsGalkqRO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069232431111238103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 286,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#coser #pjsk #晓山瑞希 #cos #projectsekai \n翘个腿腿喵～ https://t.co/wsGalkqRO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1168,
+          "like_count": 3113,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-31T16:18:51.000Z",
+        "description": "",
+        "id": "1565011131965796354",
+        "location": "床🛌",
+        "name": "HanaYuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041404680866332672/7C0B1PDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 418,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "kyai_poi",
+        "verified": false
+      }
+    ]
+  }
+}

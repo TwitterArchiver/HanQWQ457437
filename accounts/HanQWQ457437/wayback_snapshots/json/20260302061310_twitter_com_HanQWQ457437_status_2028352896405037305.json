@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028352894051991552"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2028352896405037305",
+    "created_at": "2026-03-02T06:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028352896405037305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbWppHwRlU",
+          "end": 31,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2028352896405037305/photo/1",
+          "media_key": "3_2028352894051991552",
+          "start": 8,
+          "url": "https://t.co/jbWppHwRlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028352896405037305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巴士卡还挺好用 https://t.co/jbWppHwRlU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028352894051991552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYoNeEawAAkhzI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028352894051991552"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2028352896405037305",
+        "created_at": "2026-03-02T06:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028352896405037305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbWppHwRlU",
+              "end": 31,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2028352896405037305/photo/1",
+              "media_key": "3_2028352894051991552",
+              "start": 8,
+              "url": "https://t.co/jbWppHwRlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028352896405037305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巴士卡还挺好用 https://t.co/jbWppHwRlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "🫀🧠🚬🚬🚬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025497143189106688/kMoRZ1Md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 152,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 140
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

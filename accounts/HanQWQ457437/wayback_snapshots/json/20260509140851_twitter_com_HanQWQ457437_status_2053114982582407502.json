@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2053114982582407502",
+    "created_at": "2026-05-09T14:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053114982582407502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053114982582407502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你不愧疚吗 我满眼都是你的时候 你有好好珍惜吗 我无条件相信你的时候你有对得起这份信任吗 我最难熬的时候你有在意过吗 轮到我需要安慰的时候 你说你不知道说什么 你不是不懂你是不是害怕失去 你从来没有考虑过我的感受 你要是站在我的位置你就会知道我有多难受了 但是你不珍惜 让我没有安全感 我做回了我自己 我的事情再也不想让你 的事情我也再也不在意了 这个世界很坏 每个人都在装 他妈的生活一直在搞我 连你也在骗我 但是到此为止了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不愧疚吗 我满眼都是你的时候 你有好好珍惜吗 我无条件相信你的时候你有对得起这份信任吗 我最难熬的时候你有在意过吗 轮到我需要安慰的时候 你说你不知道说什么 你不是不懂你是不是害怕失去 你从来没有考虑过我的感受 你要是站在我的位置你就会知道我有多难受了 但是你不珍惜 让我没有安全感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2053114982582407502",
+        "created_at": "2026-05-09T14:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053114982582407502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053114982582407502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你不愧疚吗 我满眼都是你的时候 你有好好珍惜吗 我无条件相信你的时候你有对得起这份信任吗 我最难熬的时候你有在意过吗 轮到我需要安慰的时候 你说你不知道说什么 你不是不懂你是不是害怕失去 你从来没有考虑过我的感受 你要是站在我的位置你就会知道我有多难受了 但是你不珍惜 让我没有安全感 我做回了我自己 我的事情再也不想让你 的事情我也再也不在意了 这个世界很坏 每个人都在装 他妈的生活一直在搞我 连你也在骗我 但是到此为止了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不愧疚吗 我满眼都是你的时候 你有好好珍惜吗 我无条件相信你的时候你有对得起这份信任吗 我最难熬的时候你有在意过吗 轮到我需要安慰的时候 你说你不知道说什么 你不是不懂你是不是害怕失去 你从来没有考虑过我的感受 你要是站在我的位置你就会知道我有多难受了 但是你不珍惜 让我没有安全感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052986285892259840/uAwCEPzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 1683,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 624
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

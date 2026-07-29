@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2043288606912217197",
+    "created_at": "2026-05-18T07:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056269188076101953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832389452939104256",
+          "start": 0,
+          "username": "hanhanjianling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056269188076101953",
+    "in_reply_to_user_id": "1832389452939104256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043288606912217197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanjianling 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_2043288601241554944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs4KDKbkAAXDWE.jpg",
+        "width": 1144
+      },
+      {
+        "height": 2040,
+        "media_key": "3_2043288601124122624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs4KCubsAAIBAO.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2043288606912217197",
+        "created_at": "2026-05-18T07:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056269188076101953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832389452939104256",
+              "start": 0,
+              "username": "hanhanjianling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056269188076101953",
+        "in_reply_to_user_id": "1832389452939104256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043288606912217197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanjianling 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043288601241554944",
+            "3_2043288601124122624"
+          ]
+        },
+        "author_id": "1832389452939104256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Replays of classic NFL games.",
+              "id": "10000612773",
+              "name": "NFL Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047320654",
+              "name": "咲 -Saki-"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "689566302692708352",
+              "name": "Atlanta Falcons"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566302692708352",
+              "name": "Atlanta Falcons"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2043288606912217197",
+        "created_at": "2026-04-12T11:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043288606912217197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "falcons"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "saki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4HJUaOs7y",
+              "end": 68,
+              "expanded_url": "https://x.com/hanhanjianling/status/2043288606912217197/photo/1",
+              "media_key": "3_2043288601241554944",
+              "start": 45,
+              "url": "https://t.co/i4HJUaOs7y"
+            },
+            {
+              "display_url": "pic.x.com/i4HJUaOs7y",
+              "end": 68,
+              "expanded_url": "https://x.com/hanhanjianling/status/2043288606912217197/photo/1",
+              "media_key": "3_2043288601124122624",
+              "start": 45,
+              "url": "https://t.co/i4HJUaOs7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043288606912217197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2044,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请多多支持我们尼尼孩孩、初初祥祥谢谢喵\n#男娘 #falcons #丰川祥子 #saki https://t.co/i4HJUaOs7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤 支持加密货币🤤🤤",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2056260551098180052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895010135126016/RMgJOTkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 989,
+          "like_count": 2601,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 724
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-07T12:04:34.000Z",
+        "description": "你喜歡我，我喜歡你\n在读男高，生理男心理女，欢迎来扩扩呀～\n偶尔发发自拍desuwa\n主坑邦邦（但是不会玩音游www）\n可以叫我小香",
+        "id": "1832389452939104256",
+        "location": "America",
+        "name": "茠香𠂇愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040324589310590976/guwwGb-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 62,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 26
+        },
+        "username": "hanhanjianling",
+        "verified": false
+      }
+    ]
+  }
+}

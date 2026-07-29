@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2066832151568670801",
+    "created_at": "2026-06-26T06:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070399150685057269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030116138924003337",
+          "start": 0,
+          "username": "carmen153625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070399150685057269",
+    "in_reply_to_user_id": "2030116138924003337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066832151568670801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carmen153625 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2274,
+        "media_key": "3_2066832148309684224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7c42pbMAAX72A.jpg",
+        "width": 2241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2066832151568670801",
+        "created_at": "2026-06-26T06:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070399150685057269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030116138924003337",
+              "start": 0,
+              "username": "carmen153625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070399150685057269",
+        "in_reply_to_user_id": "2030116138924003337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066832151568670801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carmen153625 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066832148309684224"
+          ]
+        },
+        "author_id": "2030116138924003337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2066832151568670801",
+        "created_at": "2026-06-16T10:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066832151568670801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "男の娘"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T6IQQfUJJ",
+              "end": 58,
+              "expanded_url": "https://x.com/carmen153625/status/2066832151568670801/photo/1",
+              "media_key": "3_2066832148309684224",
+              "start": 35,
+              "url": "https://t.co/2T6IQQfUJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066832151568670801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 23216,
+          "like_count": 1269,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "偶尔锁住的话，也还不错吧……？\n\n#男娘 #男の娘 #cosplay https://t.co/2T6IQQfUJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2067760399441944783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1182,
+          "like_count": 3192,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-07T02:59:51.000Z",
+        "description": "UTC+8   EN/ZH🆗   French learner\n每条私信都会看，但不是每条都会回；很i，聊天只会发吉祥话，吉祥话发完自动变身故障机器人\n珍惜每一份善意",
+        "id": "2030116138924003337",
+        "location": "♡",
+        "name": "一个网友c",
+        "pinned_tweet_id": "2060224527263789286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066546339782221824/URTLe-qK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 72,
+          "like_count": 328,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "carmen153625",
+        "verified": false
+      }
+    ]
+  }
+}

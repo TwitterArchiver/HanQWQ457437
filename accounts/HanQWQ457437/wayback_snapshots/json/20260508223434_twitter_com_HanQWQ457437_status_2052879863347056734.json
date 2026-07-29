@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2052465159894175856",
+    "created_at": "2026-05-08T22:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052879863347056734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882013113949855744",
+          "start": 0,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052879863347056734",
+    "in_reply_to_user_id": "1882013113949855744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052465159894175856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endless_37 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_2052465153258684417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvSLrXaAAEF9c7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052465159894175856",
+        "created_at": "2026-05-08T22:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052879863347056734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882013113949855744",
+              "start": 0,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052879863347056734",
+        "in_reply_to_user_id": "1882013113949855744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052465159894175856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endless_37 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052465153258684417"
+          ]
+        },
+        "author_id": "1882013113949855744",
+        "conversation_id": "2052465159894175856",
+        "created_at": "2026-05-07T19:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052465159894175856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiq0FUmhuI",
+              "end": 30,
+              "expanded_url": "https://x.com/endless_37/status/2052465159894175856/photo/1",
+              "media_key": "3_2052465153258684417",
+              "start": 7,
+              "url": "https://t.co/uiq0FUmhuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052465159894175856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 994,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌一个人 https://t.co/uiq0FUmhuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1479,
+          "like_count": 2167,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 550
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2046563326034120874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 144,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3090
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}
