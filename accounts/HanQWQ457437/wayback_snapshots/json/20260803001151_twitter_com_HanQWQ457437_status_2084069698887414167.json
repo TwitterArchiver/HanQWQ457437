@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2083916185318596654",
+    "created_at": "2026-08-03T00:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084069698887414167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038283370329751552",
+          "start": 0,
+          "username": "kykum0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084069698887414167",
+    "in_reply_to_user_id": "2038283370329751552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083916185318596654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kykum0g 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083916171313856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuOt3zawAAhTbC.jpg",
+        "width": 1194
+      },
+      {
+        "height": 1791,
+        "media_key": "3_2083916171313852416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuOt3zasAAYkOJ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2083916185318596654",
+        "created_at": "2026-08-03T00:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084069698887414167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038283370329751552",
+              "start": 0,
+              "username": "kykum0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084069698887414167",
+        "in_reply_to_user_id": "2038283370329751552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083916185318596654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kykum0g 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083916171313856512",
+            "3_2083916171313852416"
+          ]
+        },
+        "author_id": "2038283370329751552",
+        "conversation_id": "2083916185318596654",
+        "created_at": "2026-08-02T14:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083916185318596654"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "薇欧拉"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "梦限大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4qDQpPRAu",
+              "end": 50,
+              "expanded_url": "https://x.com/kykum0g/status/2083916185318596654/photo/1",
+              "media_key": "3_2083916171313856512",
+              "start": 27,
+              "url": "https://t.co/H4qDQpPRAu"
+            },
+            {
+              "display_url": "pic.x.com/H4qDQpPRAu",
+              "end": 50,
+              "expanded_url": "https://x.com/kykum0g/status/2083916185318596654/photo/1",
+              "media_key": "3_2083916171313852416",
+              "start": 27,
+              "url": "https://t.co/H4qDQpPRAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083916185318596654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 15066,
+          "like_count": 775,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "试着复刻了下这张（好像不太成功）\n#薇欧拉 #梦限大 https://t.co/H4qDQpPRAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2084066165924471096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1127,
+          "like_count": 3541,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T15:54:23.000Z",
+        "description": "主号@kyouko5477251\nooc致歉 扩列请私信\n喜欢的可以点点转发🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "kyouko5477251"
+              }
+            ]
+          }
+        },
+        "id": "2038283370329751552",
+        "name": "きょうこ🐰（善良版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057105049688461312/jpowXN1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 22,
+          "like_count": 98,
+          "listed_count": 8,
+          "media_count": 14,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "kykum0g",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2082055227600146739",
+    "created_at": "2026-07-28T10:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082055952027840633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082055952027840633",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082055227600146739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2082055207824105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTyLikboAAISGx.jpg",
+        "width": 876
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2082055219203227648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTyMM9bQAAq8Dy.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2082055227600146739",
+        "created_at": "2026-07-28T10:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082055952027840633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055952027840633",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082055227600146739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082055207824105472",
+            "3_2082055219203227648"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2082055227600146739",
+        "created_at": "2026-07-28T10:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082055227600146739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDhukSwwUe",
+              "end": 71,
+              "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+              "media_key": "3_2082055207824105472",
+              "start": 48,
+              "url": "https://t.co/kDhukSwwUe"
+            },
+            {
+              "display_url": "pic.x.com/kDhukSwwUe",
+              "end": 71,
+              "expanded_url": "https://x.com/clem0216/status/2082055227600146739/photo/1",
+              "media_key": "3_2082055219203227648",
+              "start": 48,
+              "url": "https://t.co/kDhukSwwUe"
+            },
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/clem0216/status/2081958064450945210",
+              "start": 72,
+              "url": "https://t.co/dzqzbdvizJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055227600146739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081958064450945210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶臭性压抑男需付🚪费过，同类和女孩子随便过\n真恶心，一上来就发了张黑黑的小蚓引的图片，去你妈的 https://t.co/kDhukSwwUe https://t.co/dzqzbdvizJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2079785655962599772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 1103,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 588,
+          "like_count": 12317,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

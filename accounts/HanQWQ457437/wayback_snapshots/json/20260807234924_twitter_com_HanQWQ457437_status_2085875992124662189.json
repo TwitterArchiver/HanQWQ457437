@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2085875992124662189",
+    "created_at": "2026-08-07T23:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085875992124662189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085875992124662189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻的，但只要那一星半点的火光亮起，身体就是比脑子先一步，闭着眼撞过去，到最后才突然醒悟，你只是无聊时来我的世界散了散心，我却连一生的遗憾都攒够了。其实我也知道自己拿泛滥的深情挺廉价的，可我只是太想在这冷冰冰的世界里 被谁稳稳的接住一次，哪怕到头来那只是一场包装精美的错觉也甘之如饴"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2085875992124662189",
+        "created_at": "2026-08-07T23:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085875992124662189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085875992124662189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻的，但只要那一星半点的火光亮起，身体就是比脑子先一步，闭着眼撞过去，到最后才突然醒悟，你只是无聊时来我的世界散了散心，我却连一生的遗憾都攒够了。其实我也知道自己拿泛滥的深情挺廉价的，可我只是太想在这冷冰冰的世界里 被谁稳稳的接住一次，哪怕到头来那只是一场包装精美的错觉也甘之如饴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们这种缺爱的人最好骗了，只要你愿意听我讲破烂事，愿意回我信息，每天和我互动，给我笑一笑，我就以为真爱降临呢。可实际上呢，你可能无聊的时候顺手回了个哈哈，我却连我们以后的故事都彩排了无数遍。我们总是习惯，把别人的社交礼貌当成私人偏爱，把偶尔的施舍视作唯一的救赎。你知道飞蛾扑火挺傻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2084066165924471096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1125,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

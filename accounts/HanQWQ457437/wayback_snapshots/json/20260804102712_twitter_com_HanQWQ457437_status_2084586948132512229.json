@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2084586948132512229",
+    "created_at": "2026-08-04T10:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084586948132512229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084586948132512229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069191942358110580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 大约吸入70mg多一点的DPT 起效很快 20分钟左右就开始有强烈感觉 最初是身体上剧烈的刺激感 全身像有电流通过一样难受 伴随着非常强烈的恶心 我当时不停地干呕 但什么都吐不出来 \n30分钟左右视觉效果生效 刚开始理智应该还在 我坐在客厅的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2084586948132512229",
+        "created_at": "2026-08-04T10:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084586948132512229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586948132512229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069191942358110580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 大约吸入70mg多一点的DPT 起效很快 20分钟左右就开始有强烈感觉 最初是身体上剧烈的刺激感 全身像有电流通过一样难受 伴随着非常强烈的恶心 我当时不停地干呕 但什么都吐不出来 \n30分钟左右视觉效果生效 刚开始理智应该还在 我坐在客厅的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2069191942358110580",
+        "created_at": "2026-06-22T22:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069191942358110580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069191942358110580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大约吸入70mg多一点的DPT 起效很快 20分钟左右就开始有强烈感觉 最初是身体上剧烈的刺激感 全身像有电流通过一样难受 伴随着非常强烈的恶心 我当时不停地干呕 但什么都吐不出来 \n30分钟左右视觉效果生效 刚开始理智应该还在 我坐在客厅的椅子上 突然感到身后有脚步声 但是根本没有人 过了一会房间里的所有物体都开始变形 墙壁像在呼吸一样起伏 我开始看到很多类似昆虫和爬虫的东西在房间的各个角落快速移动 当时觉得它们不是普通的幻觉 而是带着一种很强的恶意 然后变成几何图形 精神极度焦虑 试图让自己平静下来 但是做不到 完全无法思考 最糟糕的是精神上我当时完全相信自己已经回不来了 会永远困在这个状态里 \n整个过程持续了将近五个小时 那种精神上的折磨远比身体上的难受更可怕 之后的好几天 我的情绪都非常低落 对任何事情都提不起兴趣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2958,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大约吸入70mg多一点的DPT 起效很快 20分钟左右就开始有强烈感觉 最初是身体上剧烈的刺激感 全身像有电流通过一样难受 伴随着非常强烈的恶心 我当时不停地干呕 但什么都吐不出来 \n30分钟左右视觉效果生效 刚开始理智应该还在 我坐在客厅的椅子上 突然感到身后有脚步声 但是根本没有人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2084066165924471096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 1161,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}
