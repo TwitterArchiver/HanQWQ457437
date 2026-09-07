@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036701522260811776"
+      ],
+      "media_source_tweet_id": [
+        "2036701524399915106"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092708274638565870",
+    "created_at": "2026-08-26T20:18:27.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092708274638565870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Or3JlEy4W8",
+          "end": 51,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2036701524399915106/photo/1",
+          "media_key": "3_2036701522260811776",
+          "start": 28,
+          "url": "https://t.co/Or3JlEy4W8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092708274638565870",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2036701522260811776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036701524399915106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 自己过生日也挺好的 https://t.co/Or3JlEy4W8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036701522260811776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPRPlvaYAARFhY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036701522260811776"
+          ],
+          "media_source_tweet_id": [
+            "2036701524399915106"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092708274638565870",
+        "created_at": "2026-08-26T20:18:27.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092708274638565870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Or3JlEy4W8",
+              "end": 51,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2036701524399915106/photo/1",
+              "media_key": "3_2036701522260811776",
+              "start": 28,
+              "url": "https://t.co/Or3JlEy4W8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092708274638565870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2036701522260811776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036701524399915106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 自己过生日也挺好的 https://t.co/Or3JlEy4W8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036701522260811776"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036701524399915106",
+        "created_at": "2026-03-25T07:07:38.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036701524399915106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Or3JlEy4W8",
+              "end": 33,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2036701524399915106/photo/1",
+              "media_key": "3_2036701522260811776",
+              "start": 10,
+              "url": "https://t.co/Or3JlEy4W8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036701524399915106",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2036701522260811776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 982,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自己过生日也挺好的 https://t.co/Or3JlEy4W8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2092708286273573010",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 920,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1082
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2092281286367019345",
+    "created_at": "2026-08-25T20:22:26.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092346885638099235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1297607755000188929",
+          "start": 0,
+          "username": "Rician0911827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092346885638099235",
+    "in_reply_to_user_id": "1297607755000188929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092281286367019345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rician0911827 红一碗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2092281278548893696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlGvMobYAAIw33.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2092281286367019345",
+        "created_at": "2026-08-25T20:22:26.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092346885638099235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1297607755000188929",
+              "start": 0,
+              "username": "Rician0911827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092346885638099235",
+        "in_reply_to_user_id": "1297607755000188929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281286367019345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rician0911827 红一碗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092281278548893696"
+          ]
+        },
+        "author_id": "1297607755000188929",
+        "conversation_id": "2092281286367019345",
+        "created_at": "2026-08-25T16:01:46.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092281286367019345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFAa5T2Ykf",
+              "end": 26,
+              "expanded_url": "https://x.com/Rician0911827/status/2092281286367019345/photo/1",
+              "media_key": "3_2092281278548893696",
+              "start": 3,
+              "url": "https://t.co/HFAa5T2Ykf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092281286367019345",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092281278548893696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧 https://t.co/HFAa5T2Ykf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2092346885638099235",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 918,
+          "like_count": 3832,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-23T18:53:00.000Z",
+        "description": "空吧哇，这里是宣雨！18⬆️泛性恋/MTX/infp/9w1，散厨和约厨,🚪3355036，",
+        "id": "1297607755000188929",
+        "is_identity_verified": false,
+        "location": "Auckland, New Zealand",
+        "most_recent_tweet_id": "2092281286367019345",
+        "name": "宣雨Rician☃︎",
+        "pinned_tweet_id": "2048308748012441992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297607755000188929/1735400368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064229004950044672/8VFe_D0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 89,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 4014
+        },
+        "url": "",
+        "username": "Rician0911827",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

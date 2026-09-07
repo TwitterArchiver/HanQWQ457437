@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037604092542058496",
+        "3_2037604092932165632"
+      ],
+      "media_source_tweet_id": [
+        "2037604095276806394",
+        "2037604095276806394"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092561367815614869",
+    "created_at": "2026-08-26T10:34:42.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092561367815614869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GENjND8As",
+          "end": 50,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+          "media_key": "3_2037604092542058496",
+          "start": 27,
+          "url": "https://t.co/0GENjND8As"
+        },
+        {
+          "display_url": "pic.x.com/0GENjND8As",
+          "end": 50,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+          "media_key": "3_2037604092932165632",
+          "start": 27,
+          "url": "https://t.co/0GENjND8As"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092561367815614869",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2037604092542058496"
+      },
+      {
+        "media_key": "3_2037604092932165632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037604095276806394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 一张一年前的截图 https://t.co/0GENjND8As"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037604092542058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcGIGDaAAAOvKG.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2037604092932165632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcGIHgakAAK7iY.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037604092542058496",
+            "3_2037604092932165632"
+          ],
+          "media_source_tweet_id": [
+            "2037604095276806394",
+            "2037604095276806394"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092561367815614869",
+        "created_at": "2026-08-26T10:34:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092561367815614869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GENjND8As",
+              "end": 50,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+              "media_key": "3_2037604092542058496",
+              "start": 27,
+              "url": "https://t.co/0GENjND8As"
+            },
+            {
+              "display_url": "pic.x.com/0GENjND8As",
+              "end": 50,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+              "media_key": "3_2037604092932165632",
+              "start": 27,
+              "url": "https://t.co/0GENjND8As"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092561367815614869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2037604092542058496"
+          },
+          {
+            "media_key": "3_2037604092932165632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037604095276806394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 一张一年前的截图 https://t.co/0GENjND8As"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037604092542058496",
+            "3_2037604092932165632"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037604095276806394",
+        "created_at": "2026-03-27T18:54:07.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037604095276806394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GENjND8As",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+              "media_key": "3_2037604092542058496",
+              "start": 9,
+              "url": "https://t.co/0GENjND8As"
+            },
+            {
+              "display_url": "pic.x.com/0GENjND8As",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2037604095276806394/photo/1",
+              "media_key": "3_2037604092932165632",
+              "start": 9,
+              "url": "https://t.co/0GENjND8As"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037604095276806394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2037604092542058496"
+          },
+          {
+            "media_key": "3_2037604092932165632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1918,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一张一年前的截图 https://t.co/0GENjND8As"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2092561367815614869",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 922,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

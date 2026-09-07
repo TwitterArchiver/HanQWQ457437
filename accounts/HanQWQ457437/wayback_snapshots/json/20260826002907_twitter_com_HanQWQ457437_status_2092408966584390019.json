@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038356178686906368"
+      ],
+      "media_source_tweet_id": [
+        "2038356210081268189"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2092408966584390019",
+    "created_at": "2026-08-26T00:29:07.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T01:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092408966584390019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KT1asZLcKZ",
+          "end": 50,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2038356210081268189/video/1",
+          "media_key": "7_2038356178686906368",
+          "start": 27,
+          "url": "https://t.co/KT1asZLcKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092408966584390019",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "7_2038356178686906368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038356210081268189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 我的忧郁德国朋友 https://t.co/KT1asZLcKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5165,
+        "height": 1280,
+        "media_key": "7_2038356178686906368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038356178686906368/pu/img/SLfndXIbB_rCEfuT.jpg",
+        "public_metrics": {
+          "view_count": 725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/320x568/1qbswIKWvKPDDuDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/480x852/JIV1b2iDD71I8HQj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/vid/avc1/720x1280/lACrcLbvGC2jlt83.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038356178686906368/pu/pl/ta9NKlWTOCSmZlSJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038356178686906368"
+          ],
+          "media_source_tweet_id": [
+            "2038356210081268189"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2092408966584390019",
+        "created_at": "2026-08-26T00:29:07.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092408966584390019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KT1asZLcKZ",
+              "end": 50,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2038356210081268189/video/1",
+              "media_key": "7_2038356178686906368",
+              "start": 27,
+              "url": "https://t.co/KT1asZLcKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092408966584390019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2038356178686906368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038356210081268189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 我的忧郁德国朋友 https://t.co/KT1asZLcKZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038356178686906368"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2038356210081268189",
+        "created_at": "2026-03-29T20:42:45.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038356210081268189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KT1asZLcKZ",
+              "end": 32,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2038356210081268189/video/1",
+              "media_key": "7_2038356178686906368",
+              "start": 9,
+              "url": "https://t.co/KT1asZLcKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038356210081268189",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2038356178686906368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3290,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的忧郁德国朋友 https://t.co/KT1asZLcKZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2092408977363783853",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 922,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

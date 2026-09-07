@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028352894051991552"
+      ],
+      "media_source_tweet_id": [
+        "2028352896405037305"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2092561649333158380",
+    "created_at": "2026-08-26T10:35:49.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092561649333158380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbWppHwRlU",
+          "end": 49,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2028352896405037305/photo/1",
+          "media_key": "3_2028352894051991552",
+          "start": 26,
+          "url": "https://t.co/jbWppHwRlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092561649333158380",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2028352894051991552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028352896405037305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 巴士卡还挺好用 https://t.co/jbWppHwRlU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028352894051991552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYoNeEawAAkhzI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028352894051991552"
+          ],
+          "media_source_tweet_id": [
+            "2028352896405037305"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2092561649333158380",
+        "created_at": "2026-08-26T10:35:49.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092561649333158380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbWppHwRlU",
+              "end": 49,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2028352896405037305/photo/1",
+              "media_key": "3_2028352894051991552",
+              "start": 26,
+              "url": "https://t.co/jbWppHwRlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092561649333158380",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2028352894051991552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028352896405037305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 巴士卡还挺好用 https://t.co/jbWppHwRlU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028352894051991552"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2028352896405037305",
+        "created_at": "2026-03-02T06:13:10.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028352896405037305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbWppHwRlU",
+              "end": 31,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2028352896405037305/photo/1",
+              "media_key": "3_2028352894051991552",
+              "start": 8,
+              "url": "https://t.co/jbWppHwRlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028352896405037305",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2028352894051991552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1518,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "巴士卡还挺好用 https://t.co/jbWppHwRlU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2092561649333158380",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 922,
+          "like_count": 3831,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

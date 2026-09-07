@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2095322114446557306",
+    "created_at": "2026-09-03T03:34:36.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095354748685983911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056350209970786304",
+          "start": 0,
+          "username": "l9ulij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095354748685983911",
+    "in_reply_to_user_id": "2056350209970786304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095322114446557306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l9ulij 刚刚放学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2095322114446557306",
+        "created_at": "2026-09-03T03:34:36.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095354748685983911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056350209970786304",
+              "start": 0,
+              "username": "l9ulij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095354748685983911",
+        "in_reply_to_user_id": "2056350209970786304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095322114446557306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l9ulij 刚刚放学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056350209970786304",
+        "conversation_id": "2095322114446557306",
+        "created_at": "2026-09-03T01:24:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095322114446557306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "9u's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nJOL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nJOLQzrPoExR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2095322116518518784/_j0NGY5w?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095322116518518784/_j0NGY5w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 9u's Space / X",
+              "unwound_url": "https://x.com/i/spaces/1nJOLQzrPoExR",
+              "url": "https://t.co/0XkCGGoTFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095322114446557306",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0XkCGGoTFY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2095354748685983911",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 897,
+          "like_count": 3940,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-18T12:25:08.000Z",
+        "description": "彼氏㈲ 𐄒 永遠の2O才児♡\n⠀𝟤𝟧𝟣 ⠀𐄒 @lr2dq\n避難垢 𐄒 @2n1zz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 23,
+                "username": "lr2dq"
+              },
+              {
+                "end": 42,
+                "start": 36,
+                "username": "2n1zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "離れないでね.com",
+                "end": 23,
+                "expanded_url": "https://xn--n8jtdho5mm104d.com",
+                "start": 0,
+                "url": "https://t.co/boSE1QziBB"
+              }
+            ]
+          }
+        },
+        "id": "2056350209970786304",
+        "is_identity_verified": false,
+        "location": "ffからのいいねが僕のʜᴘ",
+        "most_recent_tweet_id": "2095352519291727901",
+        "name": "9u",
+        "pinned_tweet_id": "2094780170821591373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056350209970786304/1781782845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094951618387353600/1b29nAig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 50,
+          "like_count": 2698,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/boSE1QziBB",
+        "username": "l9ulij",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

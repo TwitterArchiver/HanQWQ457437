@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2094144395402723521",
+    "created_at": "2026-08-30T19:25:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094144395402723521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094144395402723521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093505330399617195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 又看到你和别的男生互动了我不是警告过你只可以和我说话吗你是要逼死我吗?我视奸你很累。你能自觉告诉我今天和谁玩游戏了吗?说了什么话?有没有想我，想了多少次?你有多少个朋友?你和她们都是怎么认识的?你为什么会和她们互相关注?你为什么要点赞她们的操…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2093505326112968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2gAJJaEAAkmlk.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2094144395402723521",
+        "created_at": "2026-08-30T19:25:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094144395402723521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094144395402723521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093505330399617195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 又看到你和别的男生互动了我不是警告过你只可以和我说话吗你是要逼死我吗?我视奸你很累。你能自觉告诉我今天和谁玩游戏了吗?说了什么话?有没有想我，想了多少次?你有多少个朋友?你和她们都是怎么认识的?你为什么会和她们互相关注?你为什么要点赞她们的操…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093505326112968704"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2093505330399617195",
+        "created_at": "2026-08-29T01:05:40.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093505330399617195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FU4PUTrrvL",
+              "end": 154,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2093505330399617195/photo/1",
+              "media_key": "3_2093505326112968704",
+              "start": 131,
+              "url": "https://t.co/FU4PUTrrvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093505330399617195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093505326112968704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 587,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又看到你和别的男生互动了我不是警告过你只可以和我说话吗你是要逼死我吗?我视奸你很累。你能自觉告诉我今天和谁玩游戏了吗?说了什么话?有没有想我，想了多少次?你有多少个朋友?你和她们都是怎么认识的?你为什么会和她们互相关注?你为什么要点赞她们的操作?你能告诉我吗? https://t.co/FU4PUTrrvL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2094144395402723521",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 900,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
