@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2098637033229206013",
+    "created_at": "2026-09-12T04:57:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098637033229206013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098637033229206013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097774568396255474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 关于我你可能想知道 \n08年 现在大一 177 60kg 主页不发负能\n可以的话多来点人类来陪我聊天🥺有群 \n现在在新西兰留学 苏州人 放假会回国\n多来点人陪我聊天打游戏可以吗🥺 主要玩cs apex mc 塔科夫 怪物猎人 游戏王md yg…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2097774556903882752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzK2FMbwAA_Guj.jpg",
+        "width": 1464
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2097774563446943744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzK2dka8AAHRfm.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2098637033229206013",
+        "created_at": "2026-09-12T04:57:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098637033229206013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098637033229206013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097774568396255474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 关于我你可能想知道 \n08年 现在大一 177 60kg 主页不发负能\n可以的话多来点人类来陪我聊天🥺有群 \n现在在新西兰留学 苏州人 放假会回国\n多来点人陪我聊天打游戏可以吗🥺 主要玩cs apex mc 塔科夫 怪物猎人 游戏王md yg…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097774556903882752",
+            "3_2097774563446943744"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2097774568396255474",
+        "created_at": "2026-09-09T19:50:06.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097774568396255474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4bu4AGcFW",
+              "end": 188,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2097774568396255474/photo/1",
+              "media_key": "3_2097774556903882752",
+              "start": 165,
+              "url": "https://t.co/k4bu4AGcFW"
+            },
+            {
+              "display_url": "pic.x.com/k4bu4AGcFW",
+              "end": 188,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2097774568396255474/photo/1",
+              "media_key": "3_2097774563446943744",
+              "start": 165,
+              "url": "https://t.co/k4bu4AGcFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097774568396255474",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097774556903882752"
+          },
+          {
+            "media_key": "3_2097774563446943744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1228,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于我你可能想知道 \n08年 现在大一 177 60kg 主页不发负能\n可以的话多来点人类来陪我聊天🥺有群 \n现在在新西兰留学 苏州人 放假会回国\n多来点人陪我聊天打游戏可以吗🥺 主要玩cs apex mc 塔科夫 怪物猎人 游戏王md ygo tcg 其他游戏也玩比如后室 僵毁 潜渊症什么的\n唯一的雷点是不回我信息 很忙除外 https://t.co/k4bu4AGcFW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2098637033229206013",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 896,
+          "like_count": 4030,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
