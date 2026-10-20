@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2092947876188192794",
+    "created_at": "2026-10-04T21:37:03.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T22:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106861179478184236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939914447017119744",
+          "start": 0,
+          "username": "HEIMAO529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106861179478184236",
+    "in_reply_to_user_id": "1939914447017119744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092947876188192794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HEIMAO529 😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8026,
+        "height": 490,
+        "media_key": "13_2092947854503591936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092947854503591936/img/_-KUBkdfPsq81EXH.jpg",
+        "public_metrics": {
+          "view_count": 1776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092947854503591936/vid/avc1/486x270/qTsaDERL8JIiEM3M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092947854503591936/vid/avc1/648x360/Nx5ONMSjmks39v_V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092947854503591936/vid/avc1/884x490/_7dxyQWuu-rS6Oqn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092947854503591936/pl/7ry1PPj2QWwOJWx7.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2092947876188192794",
+        "created_at": "2026-10-04T21:37:03.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T22:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106861179478184236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939914447017119744",
+              "start": 0,
+              "username": "HEIMAO529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106861179478184236",
+        "in_reply_to_user_id": "1939914447017119744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092947876188192794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HEIMAO529 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092947854503591936"
+          ]
+        },
+        "author_id": "1939914447017119744",
+        "conversation_id": "2092947876188192794",
+        "created_at": "2026-08-27T12:10:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092947876188192794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beSLT3N6vB",
+              "end": 42,
+              "expanded_url": "https://x.com/HEIMAO529/status/2092947876188192794/video/1",
+              "media_key": "13_2092947854503591936",
+              "start": 19,
+              "url": "https://t.co/beSLT3N6vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092947876188192794",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092947854503591936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3877,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤩🤩🤩🤩好鸡巴可爱，可爱死了萝莉最棒 https://t.co/beSLT3N6vB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2106861179478184236",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 899,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1115
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-01T05:10:41.000Z",
+        "description": "啊啊，啊，嗯，啊，名字是黑貓\n不要对我说会让我伤心的话\n剩下忘了",
+        "id": "1939914447017119744",
+        "is_identity_verified": false,
+        "location": "北校c栋",
+        "most_recent_tweet_id": "2106804277859741903",
+        "name": "ころんば",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939914447017119744/1782397135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105502278115643392/SfyN9zDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 289,
+          "like_count": 7411,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "HEIMAO529",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

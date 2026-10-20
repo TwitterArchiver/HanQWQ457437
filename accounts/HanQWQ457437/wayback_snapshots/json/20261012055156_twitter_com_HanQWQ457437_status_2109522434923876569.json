@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109522427952910336"
+      ]
+    },
+    "author_id": "1753386090143354880",
+    "conversation_id": "2109522434923876569",
+    "created_at": "2026-10-12T05:51:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T06:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109522434923876569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/At968pilqr",
+          "end": 164,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2109522434923876569/photo/1",
+          "media_key": "3_2109522427952910336",
+          "start": 141,
+          "url": "https://t.co/At968pilqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109522434923876569",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109522427952910336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我真的不想吃藥💊了，我知道药可以给我带来稳定，但是，意识和情绪视野模糊和耳鸣头疼无时不在提示我是个病人，我的记忆大多数已经在忘记或是模糊后经过自身的保护而肆意捏造，我没有办法控制情绪，我没有办法发泄情绪，我不想吃鑰了，我想摆脱这种感觉，我想真实的活着，而非这样虚假的不受控制的活着。我讨厌我自己，我厌恶我自己，但是我不知道我又能做点什么，我一直特别想巳了算了，不论是身体的病痛还是精神的割裂，他们一直在折磨我，我真的不想吃鑰了，我只想当一下正常的人，健康的人，可以有自己的情绪。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的不想吃藥💊了，我知道药可以给我带来稳定，但是，意识和情绪视野模糊和耳鸣头疼无时不在提示我是个病人，我的记忆大多数已经在忘记或是模糊后经过自身的保护而肆意捏造，我没有办法控制情绪，我没有办法发泄情绪，我不想吃鑰了，我想摆脱这种感觉，我想真实的活着，而非这样虚假的不受控制的活着 https://t.co/At968pilqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2109522427952910336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUaHeLPaUAA5Ypc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109522427952910336"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2109522434923876569",
+        "created_at": "2026-10-12T05:51:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109522434923876569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/At968pilqr",
+              "end": 164,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2109522434923876569/photo/1",
+              "media_key": "3_2109522427952910336",
+              "start": 141,
+              "url": "https://t.co/At968pilqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109522434923876569",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109522427952910336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的不想吃藥💊了，我知道药可以给我带来稳定，但是，意识和情绪视野模糊和耳鸣头疼无时不在提示我是个病人，我的记忆大多数已经在忘记或是模糊后经过自身的保护而肆意捏造，我没有办法控制情绪，我没有办法发泄情绪，我不想吃鑰了，我想摆脱这种感觉，我想真实的活着，而非这样虚假的不受控制的活着。我讨厌我自己，我厌恶我自己，但是我不知道我又能做点什么，我一直特别想巳了算了，不论是身体的病痛还是精神的割裂，他们一直在折磨我，我真的不想吃鑰了，我只想当一下正常的人，健康的人，可以有自己的情绪。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想吃藥💊了，我知道药可以给我带来稳定，但是，意识和情绪视野模糊和耳鸣头疼无时不在提示我是个病人，我的记忆大多数已经在忘记或是模糊后经过自身的保护而肆意捏造，我没有办法控制情绪，我没有办法发泄情绪，我不想吃鑰了，我想摆脱这种感觉，我想真实的活着，而非这样虚假的不受控制的活着 https://t.co/At968pilqr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2109522434923876569",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 872,
+          "like_count": 3593,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

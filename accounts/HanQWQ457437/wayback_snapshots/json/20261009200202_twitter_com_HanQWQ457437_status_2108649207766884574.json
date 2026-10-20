@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753386090143354880",
+    "conversation_id": "2108631852462617071",
+    "created_at": "2026-10-09T20:02:02.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T21:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108649207766884574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951181920022437889",
+          "start": 0,
+          "username": "blackdoginmyhed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108649207766884574",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108631852462617071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackdoginmyhed 🤔🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "16_2108631829335121920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HUNdeg2aIAA9y1F.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HUNdeg2aIAA9y1F.mp4"
+          }
+        ],
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2108631852462617071",
+        "created_at": "2026-10-09T20:02:02.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T21:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108649207766884574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108649207766884574",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108631852462617071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2108631829335121920"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2108631852462617071",
+        "created_at": "2026-10-09T18:53:04.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T19:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108631852462617071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXViMbhyGS",
+              "end": 43,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2108631852462617071/photo/1",
+              "media_key": "16_2108631829335121920",
+              "start": 20,
+              "url": "https://t.co/XXViMbhyGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108631852462617071",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2108631829335121920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精工仓开始正常发货了但是一定零人在意） https://t.co/XXViMbhyGS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "is_identity_verified": false,
+        "location": "City of London, London",
+        "most_recent_tweet_id": "2108649207766884574",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2052628518828380515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753386090143354880/1774421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 882,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/烟代\n🔞!未成年人禁止!吸烟!电子烟也是!🔞",
+        "id": "1951181920022437889",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖,褴褛飞旋",
+        "most_recent_tweet_id": "2108637594661851376",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2099757532340441218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951181920022437889/1781641944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 673,
+          "like_count": 6347,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
